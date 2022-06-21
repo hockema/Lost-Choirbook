@@ -11,6 +11,22 @@
 								}, 
 							
 										{ 
+											"line" : "no line info|no line info",
+											"text" : "PRIMI TON 1. ilij. vocum. ",
+											"tags" : "CB|Choirbook",
+											"loc" : "folio_166v|166v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Superius.",
+											"tags" : "CB|Choirbook",
+											"loc" : "folio_166v|166v",
+											"inFront": "false"
+										},
+									
+										{ 
 											"line" : "1|line 1",
 											"text" : "Via Respe xit, Respexit hu mi li ta- ",
 											"tags" : "CB|Choirbook",
@@ -19,8 +35,64 @@
 										},
 									
 										{ 
+											"line" : "2|line 2",
+											"text" : "te m an cil lae su ae, an cil lae su ae ",
+											"tags" : "CB|Choirbook",
+											"loc" : "folio_166v|166v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "an cil lae, an cil lae su ae. Ec ce eni m ex hoc Be a tam me dicent. Omnes ge- ",
+											"tags" : "CB|Choirbook",
+											"loc" : "folio_166v|166v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "ne ra ti o nes, li. Genera- ",
+											"tags" : "CB|Choirbook",
+											"loc" : "folio_166v|166v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "ti o nes, ii. Omnes ge ne ra tio nes. ",
+											"tags" : "CB|Choirbook",
+											"loc" : "folio_166v|166v",
+											"inFront": "false"
+										},
+									
+										{ 
 											"line" : "no line info|no line info",
-											"text" : "Superius ",
+											"text" : "Tenor. ",
+											"tags" : "CB|Choirbook",
+											"loc" : "folio_166v|166v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "Via Res pe xit hu mi li ta tem, ancil lae su ae, an cil lae ",
+											"tags" : "CB|Choirbook",
+											"loc" : "folio_166v|166v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "su ae. Ec ce eni m ex hoc Be a tam medicent. Omnes ",
+											"tags" : "CB|Choirbook",
+											"loc" : "folio_166v|166v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "gene ra ti o nes. Omnes ge ne ra ti o nes. ",
 											"tags" : "CB|Choirbook",
 											"loc" : "folio_166v|166v",
 											"inFront": "false"
