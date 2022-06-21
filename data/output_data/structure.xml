@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<xml xmlns="http://www.w3.org/1999/xhtml">
+   <liste/>
+   <editions>
+      <edition data-key="dipl">Diplomatic</edition>
+   </editions>
+   <textpage>
+      <text n="CB" label="Choirbook">
+         <pb n="166v">folio_166v</pb>
+         <pb n="167r">folio_167r</pb>
+         <pb n="168v">folio_168v</pb>
+         <pb n="169r">folio_169r</pb>
+         <pb n="170v">folio_170v</pb>
+         <pb n="171r">folio_171r</pb>
+         <pb n="172v">folio_172v</pb>
+         <pb n="173r">folio_173r</pb>
+         <pb n="174v">folio_174v</pb>
+         <pb n="175r">folio_175r</pb>
+         <pb n="176v">folio_176v</pb>
+         <pb n="177r">folio_177r</pb>
+         <pb n="178v">folio_178v</pb>
+         <pb n="179r">folio_179r</pb>
+         <pb n="180v">folio_180v</pb>
+         <pb n="181r">folio_181r</pb>
+         <pb n="182v">folio_182v</pb>
+         <pb n="183r">folio_183r</pb>
+         <pb n="184v">folio_184v</pb>
+         <pb n="185r">folio_185r</pb>
+         <pb n="186v">folio_186v</pb>
+         <pb n="187r">folio_187r</pb>
+         <pb n="188v">folio_188v</pb>
+         <pb n="189r">folio_189r</pb>
+      </text>
+   </textpage>
+   <pages>
+      <pair>
+         <pb n="166v">folio_166v</pb>
+         <pb n="167r">folio_167r</pb>
+      </pair>
+      <pair>
+         <pb n="168v">folio_168v</pb>
+         <pb n="169r">folio_169r</pb>
+      </pair>
+      <pair>
+         <pb n="170v">folio_170v</pb>
+         <pb n="171r">folio_171r</pb>
+      </pair>
+      <pair>
+         <pb n="172v">folio_172v</pb>
+         <pb n="173r">folio_173r</pb>
+      </pair>
+      <pair>
+         <pb n="174v">folio_174v</pb>
+         <pb n="175r">folio_175r</pb>
+      </pair>
+      <pair>
+         <pb n="176v">folio_176v</pb>
+         <pb n="177r">folio_177r</pb>
+      </pair>
+      <pair>
+         <pb n="178v">folio_178v</pb>
+         <pb n="179r">folio_179r</pb>
+      </pair>
+      <pair>
+         <pb n="180v">folio_180v</pb>
+         <pb n="181r">folio_181r</pb>
+      </pair>
+      <pair>
+         <pb n="182v">folio_182v</pb>
+         <pb n="183r">folio_183r</pb>
+      </pair>
+      <pair>
+         <pb n="184v">folio_184v</pb>
+         <pb n="185r">folio_185r</pb>
+      </pair>
+      <pair>
+         <pb n="186v">folio_186v</pb>
+         <pb n="187r">folio_187r</pb>
+      </pair>
+      <pair>
+         <pb n="188v">folio_188v</pb>
+         <pb n="189r">folio_189r</pb>
+      </pair>
+   </pages>
+   <idno/>
+</xml>

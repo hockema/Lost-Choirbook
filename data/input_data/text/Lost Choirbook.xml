@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Choir Book</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <facsimile xml:id="Lost_Choirbook">
+      <surface corresp="#folio_166v">
+         <graphic url="../images/single/folio_166v.jpg" height="1983px" width="1440px"/>
+         <zone corresp="#LCB_lb_166v_01" xml:id="LCB_line_166v_01" rendition="Line" rend=" visible" lry="231" lrx="1290" uly="77" ulx="382"/>
+         <zone xml:id="zone_ubd_d13_ytb" rend=" visible" lry="370" lrx="1283" uly="232" ulx="380"/>
+         <zone xml:id="zone_n51_213_ytb" rend=" visible" lry="534" lrx="1290" uly="379" ulx="101"/>
+         <zone xml:id="zone_y1t_213_ytb" rend=" visible" lry="692" lrx="1290" uly="531" ulx="101"/>
+         <zone xml:id="zone_xsj_f13_ytb" rend=" visible" lry="828" lrx="1290" uly="675" ulx="103"/>
+         <zone xml:id="zone_etk_g13_ytb" rend=" visible" lry="931" lrx="1295" uly="815" ulx="105"/>
+         <zone corresp="#LCB_txtline_166_box" xml:id="LCB_line_166v_07" rendition="Line" rend=" visible" lry="373" lrx="395" uly="72" ulx="99"/>
+      </surface>
+     <surface>
+      <graphic url="../images/single/folio_167r.jpg"/>
+     </surface>
+   </facsimile> 
+  <text n="Choirbook" type="prose" xml:id="CB">
+      <front/>
+      <body>
+            <pb n="166v" xml:id="folio_166v"/>
+         <p>
+            
+            <lb facs="#LCB_line_166v_01" n="1" xml:id="LCB_lb_166v_01"/>Via Respe     xit, Respexit    hu mi li  ta-
+          
+            <lb facs="LCB_line_166v_07" xml:id="LCB_txtline_166_box"/>Superius
+         </p>
+            
+            <pb n="167r" xml:id="folio_167r"/>
+            <pb n="168v" xml:id="folio_168v"/>
+            <pb n="169r" xml:id="folio_169r"/>
+            <pb n="170v" xml:id="folio_170v"/>
+            <pb n="171r" xml:id="folio_171r"/>
+            <pb n="172v" xml:id="folio_172v"/>
+            <pb n="173r" xml:id="folio_173r"/>
+            
+            <pb n="174v" xml:id="folio_174v"/>
+            <pb n="175r" xml:id="folio_175r"/>
+            <pb n="176v" xml:id="folio_176v"/>
+            <pb n="177r" xml:id="folio_177r"/>
+            <pb n="178v" xml:id="folio_178v"/>
+            <pb n="179r" xml:id="folio_179r"/>
+            <pb n="180v" xml:id="folio_180v"/>
+            <pb n="181r" xml:id="folio_181r"/>
+            <pb n="182v" xml:id="folio_182v"/>
+            <pb n="183r" xml:id="folio_183r"/>
+            <pb n="184v" xml:id="folio_184v"/>
+            <pb n="185r" xml:id="folio_185r"/>
+            <pb n="186v" xml:id="folio_186v"/>
+            <pb n="187r" xml:id="folio_187r"/>
+            <pb n="188v" xml:id="folio_188v"/>
+            <pb n="189r" xml:id="folio_189r"/>
+         
+      </body> 
+     
+   </text>
+
+</TEI>
