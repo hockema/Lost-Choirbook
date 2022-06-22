@@ -377,7 +377,7 @@
 			 Per rimuovere un elemento basta eliminare tutto l'elemento di interesse.
 			 Per aggiungere un elemento alla lista basta sapere che il tag fa riferimento alla classe data all'elemento html con il quale sono state marcate le parole "particolari" da selezionare. -->
 	<xsl:variable name="lists" as="element()*">
-		<group label="NAMED_ENTITIES" active="true">
+		<group label="NAMED_ENTITIES" active="false">
 			<persName active="true"/>
 			<placeName active="false"/>
 			<orgName active="false"/>
@@ -398,7 +398,7 @@
 			<novelistic active="true"/>
 			<mixed active="true"/>
 		</group>
-		<group label="OTHERS" active="true">
+		<group label="OTHERS" active="false">
 			<seg type="kenning" active="true" label="KENNING"/>
 		</group>
 	</xsl:variable>
