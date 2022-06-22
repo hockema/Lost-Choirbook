@@ -44,7 +44,7 @@
 									
 										{ 
 											"line" : "3|line 3",
-											"text" : "an cil lae, an cil lae su ae. Ec ce eni m ex hoc Be a tam me dicent. Omnes ge- ",
+											"text" : "an cil lae, an cil lae su ae. Ec ce1 eni m ex hoc Be a tam me dicent. Omnes ge-",
 											"tags" : "CB|Choirbook",
 											"loc" : "folio_166v|166v",
 											"inFront": "false"
@@ -60,7 +60,7 @@
 									
 										{ 
 											"line" : "5|line 5",
-											"text" : "ti o nes, ii. Omnes ge ne ra tio nes. ",
+											"text" : "ti o nes, ii. Omnes ge ne ra tio nes.a",
 											"tags" : "CB|Choirbook",
 											"loc" : "folio_166v|166v",
 											"inFront": "false"
@@ -68,7 +68,7 @@
 									
 										{ 
 											"line" : "no line info|no line info",
-											"text" : "Tenor. ",
+											"text" : "Tenor.",
 											"tags" : "CB|Choirbook",
 											"loc" : "folio_166v|166v",
 											"inFront": "false"
@@ -84,7 +84,7 @@
 									
 										{ 
 											"line" : "8|line 8",
-											"text" : "su ae. Ec ce eni m ex hoc Be a tam medicent. Omnes ",
+											"text" : "su ae. Ec ce eni m ex hoc Be a tam medicent. Omnes",
 											"tags" : "CB|Choirbook",
 											"loc" : "folio_166v|166v",
 											"inFront": "false"
@@ -151,38 +151,6 @@
 									"text" : " ", 
 									"tags" : "CB|Choirbook", 
 									"loc" : "folio_172v|172v",
-									"inFront": "false" 
-								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook", 
-									"loc" : "folio_173r|173r",
-									"inFront": "false" 
-								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook", 
-									"loc" : "folio_174v|174v",
-									"inFront": "false" 
-								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook", 
-									"loc" : "folio_175r|175r",
-									"inFront": "false" 
-								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook", 
-									"loc" : "folio_176v|176v",
 									"inFront": "false" 
 								}, 
 							 

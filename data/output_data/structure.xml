@@ -15,10 +15,6 @@
          <pb n="170v">folio_170v</pb>
          <pb n="171r">folio_171r</pb>
          <pb n="172v">folio_172v</pb>
-         <pb n="173r">folio_173r</pb>
-         <pb n="174v">folio_174v</pb>
-         <pb n="175r">folio_175r</pb>
-         <pb n="176v">folio_176v</pb>
          <pb n="177r">folio_177r</pb>
          <pb n="178v">folio_178v</pb>
          <pb n="179r">folio_179r</pb>
@@ -49,14 +45,8 @@
       </pair>
       <pair>
          <pb n="172v">folio_172v</pb>
-         <pb n="173r">folio_173r</pb>
       </pair>
       <pair>
-         <pb n="174v">folio_174v</pb>
-         <pb n="175r">folio_175r</pb>
-      </pair>
-      <pair>
-         <pb n="176v">folio_176v</pb>
          <pb n="177r">folio_177r</pb>
       </pair>
       <pair>

@@ -60,19 +60,19 @@
       <body>
          <pb n="166v" xml:id="folio_166v"/>
          <p>
-            <notatedMusic>What shows up here?</notatedMusic><lb rend="center" facs="#LCB_header" xml:id="LCB_166v_head"/>PRIMI TON 1. ilij. vocum.
+            <lb rend="center" facs="#LCB_header" xml:id="LCB_166v_head"/>PRIMI TON 1. ilij. vocum.
                <lb facs="#LCB_line_166v_box" xml:id="LCB_txtline_166_box"/>Superius.<lb
                facs="#LCB_line_166v_01" n="1" xml:id="LCB_lb_166v_01"/><hi>Q</hi>Via Respe xit,
-            Respexit hu mi li ta- <lb facs="#LCB_line_166v_02" xml:id="LCB_lb_166v_02" n="2"/>te m
+            Respexit<note>This is a generic, unnumbered note.</note> hu mi li ta- <lb facs="#LCB_line_166v_02" xml:id="LCB_lb_166v_02" n="2"/>te m
             an cil lae su ae, an cil lae su ae <lb facs="#LCB_line_166v_03" xml:id="LCB_lb_166v_03"
-               n="3"/>an cil lae, an cil lae su ae. Ec ce eni m ex hoc Be a tam me dicent. Omnes ge-
+               n="3"/>an cil lae, an cil lae su ae. Ec ce<note n="1" type="comment">You can differentiate your notes as comments</note> eni m ex hoc Be a tam me dicent. Omnes ge-
                <lb facs="#LCB_line_166v_04" xml:id="LCB_lb_166v_04" n="4"/>ne ra ti o nes, li.
             Genera- <lb facs="#LCB_line_166v_05" xml:id="LCB_lb_166v_05" n="5"/>ti o nes, ii. Omnes
-            ge ne ra tio nes. <lb facs="#LCB_blankline_166v_01" xml:id="LCB_blank_166v_01" n="6"/><!-- facs="#LCB_line_166v_blankline_01" xml:id="LCB_lb_166v_06" -->
-            <lb facs="#LCB_line_166v_box2" xml:id="LCB_txtline_166_box2"/>Tenor. <lb
+            ge ne ra tio nes.<note n="a" type="critical">Or they can be critical notes.</note> <lb facs="#LCB_blankline_166v_01" xml:id="LCB_blank_166v_01" n="6"/><!-- facs="#LCB_line_166v_blankline_01" xml:id="LCB_lb_166v_06" -->
+            <lb facs="#LCB_line_166v_box2" xml:id="LCB_txtline_166_box2"/><choice><orig>Tenor</orig><reg>You can hover over words too.</reg></choice>. <lb
                facs="#LCB_line_166v_07" xml:id="LCB_lb_166v_07" n="7"/><hi>Q</hi>Via Res pe xit hu
             mi li ta tem, ancil lae su ae, an cil lae <lb facs="#LCB_line_166v_08"
-               xml:id="LCB_lb_166v_08" n="8"/>su ae. Ec ce eni m ex hoc Be a tam medicent. Omnes <lb
+               xml:id="LCB_lb_166v_08" n="8"/>su ae. Ec ce eni m ex hoc Be a tam medicent. Omnes<lb
                facs="#LCB_line_166v_09" xml:id="LCB_lb_166v_09" n="9"/>gene ra ti o nes. Omnes ge ne
             ra ti o nes. <lb facs="#LCB_blankline_166v_02" xml:id="LCB_blank_166v_02" n="10"/>
             <lb facs="#LCB_blankline_166v_03" xml:id="LCB_blank_166v_03" n="11"/>
@@ -85,10 +85,10 @@
          <pb n="170v" xml:id="folio_170v"/>
          <pb n="171r" xml:id="folio_171r"/>
          <pb n="172v" xml:id="folio_172v"/>
-         <pb n="173r" xml:id="folio_173r"/>
+         <!-- <pb n="173r" xml:id="folio_173r"/>
          <pb n="174v" xml:id="folio_174v"/>
          <pb n="175r" xml:id="folio_175r"/>
-         <pb n="176v" xml:id="folio_176v"/>
+         <pb n="176v" xml:id="folio_176v"/> -->
          <pb n="177r" xml:id="folio_177r"/>
          <pb n="178v" xml:id="folio_178v"/>
          <pb n="179r" xml:id="folio_179r"/>
