@@ -37,12 +37,19 @@
             corresp="#LCB_txtline_166_box2" rend="visible"/>
          <zone xml:id="LCB_line_166v_07" lry="1129" lrx="1271" uly="996" ulx="399" rendition="Line"
             corresp="#LCB_lb_166v_07" rend="visible"/>
-         <zone xml:id="LCB_line_166v_08" corresp="#LCB_lb_166v_08" rend="visible" rendition="Line" lry="1275" lrx="1305" uly="1126" ulx="396"/>
-         <zone xml:id="LCB_line_166v_09" corresp="#LCB_lb_166v_09" rend="visible" rendition="Line" lry="1436" lrx="1300" uly="1281" ulx="106"/>
-         <zone xml:id="LCB_blankline_166v_02" corresp="#LCB_blank_166v_02" rend="visible" rendition="Line" lry="1539" lrx="1303" uly="1425" ulx="106"/>
-         <zone xml:id="LCB_blankline_166v_03" corresp="#LCB_blank_166v_03" rend="visible" rendition="Line" lry="1677" lrx="1327" uly="1569" ulx="110"/>
-         <zone xml:id="LCB_blankline_166v_04" corresp="#LCB_blank_166v_04" rend="visible" rendition="Line" lry="1819" lrx="1313" uly="1719" ulx="118"/>
-         <zone xml:id="LCB_blankline_166v_01" corresp="#LCB_blank_166v_01" rend="visible" rendition="Line" lry="941" lrx="1300" uly="834" ulx="101"/>
+         <zone xml:id="LCB_line_166v_08" lry="1275" lrx="1305" uly="1126" ulx="396" rendition="Line"
+            corresp="#LCB_lb_166v_08" rend="visible"/>
+         <zone xml:id="LCB_line_166v_09" lry="1436" lrx="1300" uly="1281" ulx="106" rendition="Line"
+            corresp="#LCB_lb_166v_09" rend="visible"/>
+         <zone xml:id="LCB_blankline_166v_02" lry="1539" lrx="1303" uly="1425" ulx="106"
+            rendition="Line" corresp="#LCB_blank_166v_02" rend="visible"/>
+         <zone xml:id="LCB_blankline_166v_03" lry="1677" lrx="1327" uly="1569" ulx="110"
+            rendition="Line" corresp="#LCB_blank_166v_03" rend="visible"/>
+         <zone xml:id="LCB_blankline_166v_04" lry="1819" lrx="1313" uly="1719" ulx="118"
+            rendition="Line" corresp="#LCB_blank_166v_04" rend="visible"/>
+         <zone xml:id="LCB_blankline_166v_01" lry="941" lrx="1300" uly="834" ulx="101"
+            rendition="Line" corresp="#LCB_blank_166v_01" rend="visible"/>
+         <zone xml:id="LCB_line_166v_HS_01" corresp="#LCB_div_hs_166v_01" rendition="HotSpot" rend="visible" lry="378" lrx="405" uly="74" ulx="104"/>
       </surface>
       <surface>
          <graphic url="../images/single/folio_167r.jpg"/>
@@ -53,22 +60,21 @@
       <body>
          <pb n="166v" xml:id="folio_166v"/>
          <p>
-            <lb rend="center" facs="#LCB_header" xml:id="LCB_166v_head"/>PRIMI TON 1. ilij.
-               vocum.
-            <lb facs="#LCB_line_166v_box" xml:id="LCB_txtline_166_box"/>Superius.<lb
-               facs="#LCB_line_166v_01" n="1" xml:id="LCB_lb_166v_01"/>Via Respe xit, Respexit hu mi
-            li ta- <lb facs="#LCB_line_166v_02" xml:id="LCB_lb_166v_02" n="2"/>te . m an cil lae su
-            ae, an cil lae su ae <lb facs="#LCB_line_166v_03" xml:id="LCB_lb_166v_03" n="3"/>an cil
-            lae, an cil lae su ae. Ec ce eni m ex hoc Be a tam me dicent. Omnes ge- <lb
-               facs="#LCB_line_166v_04" xml:id="LCB_lb_166v_04" n="4"/>ne ra ti o nes, li. Genera-
-               <lb facs="#LCB_line_166v_05" xml:id="LCB_lb_166v_05" n="5"/>ti o nes, ii. Omnes ge ne
-            ra tio nes. <lb facs="#LCB_blankline_166v_01" xml:id="LCB_blank_166v_01" n="6"/><!-- facs="#LCB_line_166v_blankline_01" xml:id="LCB_lb_166v_06" -->
+            <lb rend="center" facs="#LCB_header" xml:id="LCB_166v_head"/>PRIMI TON 1. ilij. vocum.
+               <lb facs="#LCB_line_166v_box" xml:id="LCB_txtline_166_box"/>Superius.<lb
+               facs="#LCB_line_166v_01" n="1" xml:id="LCB_lb_166v_01"/><hi>Q</hi>Via Respe xit,
+            Respexit hu mi li ta- <lb facs="#LCB_line_166v_02" xml:id="LCB_lb_166v_02" n="2"/>te m
+            an cil lae su ae, an cil lae su ae <lb facs="#LCB_line_166v_03" xml:id="LCB_lb_166v_03"
+               n="3"/>an cil lae, an cil lae su ae. Ec ce eni m ex hoc Be a tam me dicent. Omnes ge-
+               <lb facs="#LCB_line_166v_04" xml:id="LCB_lb_166v_04" n="4"/>ne ra ti o nes, li.
+            Genera- <lb facs="#LCB_line_166v_05" xml:id="LCB_lb_166v_05" n="5"/>ti o nes, ii. Omnes
+            ge ne ra tio nes. <lb facs="#LCB_blankline_166v_01" xml:id="LCB_blank_166v_01" n="6"/><!-- facs="#LCB_line_166v_blankline_01" xml:id="LCB_lb_166v_06" -->
             <lb facs="#LCB_line_166v_box2" xml:id="LCB_txtline_166_box2"/>Tenor. <lb
-               facs="#LCB_line_166v_07" xml:id="LCB_lb_166v_07" n="7"/>Via Res pe xit hu mi li ta
-            tem, ancil lae su ae, an cil lae 
-            <lb facs="#LCB_line_166v_08" xml:id="LCB_lb_166v_08" n="8"/>su ae. Ec ce eni m ex hoc Be a tam medicent. Omnes
-            <lb facs="#LCB_line_166v_09" xml:id="LCB_lb_166v_09" n="9"/>gene ra ti o nes. Omnes ge ne ra ti o nes.
-            <lb facs="#LCB_blankline_166v_02" xml:id="LCB_blank_166v_02" n="10"/>
+               facs="#LCB_line_166v_07" xml:id="LCB_lb_166v_07" n="7"/><hi>Q</hi>Via Res pe xit hu
+            mi li ta tem, ancil lae su ae, an cil lae <lb facs="#LCB_line_166v_08"
+               xml:id="LCB_lb_166v_08" n="8"/>su ae. Ec ce eni m ex hoc Be a tam medicent. Omnes <lb
+               facs="#LCB_line_166v_09" xml:id="LCB_lb_166v_09" n="9"/>gene ra ti o nes. Omnes ge ne
+            ra ti o nes. <lb facs="#LCB_blankline_166v_02" xml:id="LCB_blank_166v_02" n="10"/>
             <lb facs="#LCB_blankline_166v_03" xml:id="LCB_blank_166v_03" n="11"/>
             <lb facs="#LCB_blankline_166v_04" xml:id="LCB_blank_166v_04" n="12"/>
          </p>
@@ -96,5 +102,16 @@
          <pb n="188v" xml:id="folio_188v"/>
          <pb n="189r" xml:id="folio_189r"/>
       </body>
+      <back>
+         <div type="hotspot">
+            <div facs="#LCB_line_166v_HS_01" xml:id="LCB_div_hs_166v_01">
+               <p>The ornamented 'Q' is the first word of the him, 'Quia.' Each section of the choir
+                  in the book begins with the same ornamented letter.</p>
+               <figure>
+                  <graphic url="CB_166v_HS_01.jpg"/>
+               </figure>
+            </div>
+         </div>
+      </back>
    </text>
 </TEI>

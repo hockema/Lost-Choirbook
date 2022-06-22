@@ -61,8 +61,8 @@ div.Annotation img{
 div.AnnText{
     border-top: 2px solid #4E443C;
     font-size: 16px;
-    max-height: 300px;
-    overflow-y: auto;
+    max-height: 100%;
+    overflow-y: scroll;
     padding: 10px;
 }
 /*

@@ -244,7 +244,7 @@
 	<!-- EN: Show/Hide Hotspot Button in interface -->
 	<!-- IT: Mostra/Nascondi pulsante Hotspot nell'interfaccia web -->
 	<!-- default: true() -->
-	<xsl:param name="hs_button" select="false()"/>
+	<xsl:param name="hs_button" select="true()"/>
 
 	<!-- EN: Show/Hide Magnifier Button in interface -->
 	<!-- IT: Mostra/Nascondi pulsante Lente di ingrandimento nell'interfaccia web -->
