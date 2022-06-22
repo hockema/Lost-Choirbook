@@ -60,7 +60,7 @@
       <body>
          <pb n="166v" xml:id="folio_166v"/>
          <p>
-            <lb rend="center" facs="#LCB_header" xml:id="LCB_166v_head"/>PRIMI TON 1. ilij. vocum.
+            <notatedMusic>What shows up here?</notatedMusic><lb rend="center" facs="#LCB_header" xml:id="LCB_166v_head"/>PRIMI TON 1. ilij. vocum.
                <lb facs="#LCB_line_166v_box" xml:id="LCB_txtline_166_box"/>Superius.<lb
                facs="#LCB_line_166v_01" n="1" xml:id="LCB_lb_166v_01"/><hi>Q</hi>Via Respe xit,
             Respexit hu mi li ta- <lb facs="#LCB_line_166v_02" xml:id="LCB_lb_166v_02" n="2"/>te m
@@ -77,6 +77,7 @@
             ra ti o nes. <lb facs="#LCB_blankline_166v_02" xml:id="LCB_blank_166v_02" n="10"/>
             <lb facs="#LCB_blankline_166v_03" xml:id="LCB_blank_166v_03" n="11"/>
             <lb facs="#LCB_blankline_166v_04" xml:id="LCB_blank_166v_04" n="12"/>
+            
          </p>
          <pb n="167r" xml:id="folio_167r"/>
          <pb n="168v" xml:id="folio_168v"/>
