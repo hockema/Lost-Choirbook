@@ -97,12 +97,12 @@
 	<!-- EN: On/Off Manuscript Description -->
 	<!-- IT: Attiva/Disattiva Descrizione del manoscritto-->
 	<!-- default: true() -->
-	<xsl:param name="msDesc" select="false()"/>
+	<xsl:param name="msDesc" select="true()"/>
 
 	<!-- EN: On/Off Header information -->
 	<!-- IT: Attiva/Disattiva Informazioni generali -->
 	<!-- default: true() -->
-	<xsl:param name="headerInfo" select="false()"/>
+	<xsl:param name="headerInfo" select="true()"/>
 
 	<!-- EN: On/Off Bibliography -->
 	<!-- IT: Attiva/Disattiva Bibliografia -->

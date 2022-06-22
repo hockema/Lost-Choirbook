@@ -7,52 +7,84 @@
       <fileDesc>
          <titleStmt>
             <title>Choir Book</title>
+         
+               <author>Unknown</author>
+               <principal></principal>
+               <respStmt>
+                  <resp>Conversion to TEI-conformant markup: </resp>
+                  <name></name>
+               </respStmt>
+               <respStmt>
+                  <resp>General overview: </resp>
+                  <name></name>
+               </respStmt>
          </titleStmt>
+         
          <publicationStmt>
-            <p>Publication Information</p>
+            <authority>Diego de Brucena Choirbook</authority>
+            <date>2022-</date>
+            <availability status="unknown">
+               <p>Contact @______for more information</p>
+            </availability>
          </publicationStmt>
+         
          <sourceDesc>
-            <p>Information about the source</p>
+            <msDesc>
+               <msIdentifier>
+                  <country>????</country>
+                  <settlement>????</settlement>
+                  <repository>????</repository>
+                  <idno>????</idno>
+                  <msName>Lost Choirbook</msName>
+                  <msName>Lost Choirbook</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary>This is a choirbook.</summary>
+                  <textLang mainLang="lat">The primary language in this manuscript is Latin.</textLang>
+               </msContents>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
+  
+   
    </teiHeader>
    <facsimile xml:id="Lost_Choirbook">
       <surface corresp="#folio_166v">
          <graphic url="../images/single/folio_166v.jpg" width="1440px" height="1983px"/>
-         <zone xml:id="LCB_line_166v_01" lry="231" lrx="1290" uly="77" ulx="382" rendition="Line"
-            corresp="#LCB_lb_166v_01" rend=" visible"/>
-         <zone xml:id="LCB_line_166v_box" lry="373" lrx="395" uly="72" ulx="99" rendition="Line"
-            corresp="#LCB_txtline_166_box" rend=" visible"/>
-         <zone xml:id="LCB_header" lry="73" lrx="1224" uly="21" ulx="430" rendition="Line"
-            corresp="#LCB_166v_head" rend="visible"/>
-         <zone xml:id="LCB_line_166v_02" lry="392" lrx="1290" uly="237" ulx="384" rendition="Line"
-            corresp="#LCB_lb_166v_02" rend="visible"/>
-         <zone xml:id="LCB_line_166v_03" lry="529" lrx="1291" uly="372" ulx="105" rendition="Line"
-            corresp="#LCB_lb_166v_03" rend="visible"/>
-         <zone xml:id="LCB_line_166v_04" lry="678" lrx="1296" uly="525" ulx="103" rendition="Line"
-            corresp="#LCB_lb_166v_04" rend="visible"/>
-         <zone xml:id="LCB_line_166v_05" lry="824" lrx="1288" uly="677" ulx="109" rendition="Line"
-            corresp="#LCB_lb_166v_05" rend="visible"/>
-         <zone xml:id="LCB_line_166v_box2" lry="1285" lrx="408" uly="994" ulx="98" rendition="Line"
-            corresp="#LCB_txtline_166_box2" rend="visible"/>
-         <zone xml:id="LCB_line_166v_07" lry="1129" lrx="1271" uly="996" ulx="399" rendition="Line"
-            corresp="#LCB_lb_166v_07" rend="visible"/>
-         <zone xml:id="LCB_line_166v_08" lry="1275" lrx="1305" uly="1126" ulx="396" rendition="Line"
-            corresp="#LCB_lb_166v_08" rend="visible"/>
-         <zone xml:id="LCB_line_166v_09" lry="1436" lrx="1300" uly="1281" ulx="106" rendition="Line"
-            corresp="#LCB_lb_166v_09" rend="visible"/>
-         <zone xml:id="LCB_blankline_166v_02" lry="1539" lrx="1303" uly="1425" ulx="106"
-            rendition="Line" corresp="#LCB_blank_166v_02" rend="visible"/>
-         <zone xml:id="LCB_blankline_166v_03" lry="1677" lrx="1327" uly="1569" ulx="110"
-            rendition="Line" corresp="#LCB_blank_166v_03" rend="visible"/>
-         <zone xml:id="LCB_blankline_166v_04" lry="1819" lrx="1313" uly="1719" ulx="118"
-            rendition="Line" corresp="#LCB_blank_166v_04" rend="visible"/>
-         <zone xml:id="LCB_blankline_166v_01" lry="941" lrx="1300" uly="834" ulx="101"
-            rendition="Line" corresp="#LCB_blank_166v_01" rend="visible"/>
-         <zone xml:id="LCB_line_166v_HS_01" corresp="#LCB_div_hs_166v_01" rendition="HotSpot" rend="visible" lry="378" lrx="405" uly="74" ulx="104"/>
+         <zone xml:id="LCB_166v_line_01" lry="231" lrx="1290" uly="77" ulx="382" rendition="Line"
+            corresp="#LCB_166v_lb_01" rend=" visible"/>
+         <zone xml:id="LCB_166v_box_01" lry="373" lrx="395" uly="72" ulx="99" rendition="Line"
+            corresp="#LCB_166v_boxtxt_01" rend=" visible"/>
+         <zone xml:id="LCB_166v_headtxter" lry="73" lrx="1224" uly="21" ulx="430" rendition="Line"
+            corresp="#LCB_166v_headtxt" rend="visible"/>
+         <zone xml:id="LCB_166v_line_02" lry="392" lrx="1290" uly="237" ulx="384" rendition="Line"
+            corresp="#LCB_166v_lb_02" rend="visible"/>
+         <zone xml:id="LCB_166v_line_03" lry="529" lrx="1291" uly="372" ulx="105" rendition="Line"
+            corresp="#LCB_166v_lb_03" rend="visible"/>
+         <zone xml:id="LCB_166v_line_04" lry="678" lrx="1296" uly="525" ulx="103" rendition="Line"
+            corresp="#LCB_166v_lb_04" rend="visible"/>
+         <zone xml:id="LCB_166v_line_05" lry="824" lrx="1288" uly="677" ulx="109" rendition="Line"
+            corresp="#LCB_166v_lb_05" rend="visible"/>
+         <zone xml:id="LCB_166v_box_02" lry="1285" lrx="408" uly="994" ulx="98" rendition="Line"
+            corresp="#LCB_166v_boxtxt_02" rend="visible"/>
+         <zone xml:id="LCB_166v_line_07" lry="1129" lrx="1271" uly="996" ulx="399" rendition="Line"
+            corresp="#LCB_166v_lb_07" rend="visible"/>
+         <zone xml:id="LCB_166v_line_08" lry="1275" lrx="1305" uly="1126" ulx="396" rendition="Line"
+            corresp="#LCB_166v_lb_08" rend="visible"/>
+         <zone xml:id="LCB_166v_line_09" lry="1436" lrx="1300" uly="1281" ulx="106" rendition="Line"
+            corresp="#LCB_166v_lb_09" rend="visible"/>
+         <zone xml:id="LCB_166v_blankline_02" lry="1539" lrx="1303" uly="1425" ulx="106"
+            rendition="Line" corresp="#LCB_166v_blanktext_02" rend="visible"/>
+         <zone xml:id="LCB_166v_blankline_03" lry="1677" lrx="1327" uly="1569" ulx="110"
+            rendition="Line" corresp="#LCB_166v_blanktext_03" rend="visible"/>
+         <zone xml:id="LCB_166v_blankline_04" lry="1819" lrx="1313" uly="1719" ulx="118"
+            rendition="Line" corresp="#LCB_166v_blanktext_04" rend="visible"/>
+         <zone xml:id="LCB_166v_blankline_01" lry="941" lrx="1300" uly="834" ulx="101"
+            rendition="Line" corresp="#LCB_166v_blanktext_01" rend="visible"/>
+         <zone xml:id="LCB_166v_HS_01" corresp="#LCB_166v_hotspot_01" rendition="HotSpot" rend="visible" lry="378" lrx="405" uly="74" ulx="104"/>
       </surface>
       <surface>
-         <graphic url="../images/single/folio_167r.jpg"/>
+         <graphic url="../images/single/folio_167r.jpg" width="1422px" height="1983px"/>
       </surface>
    </facsimile>
    <text n="Choirbook" type="prose" xml:id="CB">
@@ -60,23 +92,23 @@
       <body>
          <pb n="166v" xml:id="folio_166v"/>
          <p>
-            <lb rend="center" facs="#LCB_header" xml:id="LCB_166v_head"/>PRIMI TON 1. ilij. vocum.
-               <lb facs="#LCB_line_166v_box" xml:id="LCB_txtline_166_box"/>Superius.<lb
-               facs="#LCB_line_166v_01" n="1" xml:id="LCB_lb_166v_01"/><hi>Q</hi>Via Respe xit,
-            Respexit<note>This is a generic, unnumbered note.</note> hu mi li ta- <lb facs="#LCB_line_166v_02" xml:id="LCB_lb_166v_02" n="2"/>te m
-            an cil lae su ae, an cil lae su ae <lb facs="#LCB_line_166v_03" xml:id="LCB_lb_166v_03"
+            <lb rend="center" facs="#LCB_166v_headtxter" xml:id="LCB_166v_headtxt"/>PRIMI TON 1. ilij. vocum.
+               <lb facs="#LCB_166v_box_01" xml:id="LCB_166v_boxtxt_01"/>Superius.<lb
+               facs="#LCB_166v_line_01" n="1" xml:id="LCB_166v_lb_01"/><hi>Q</hi>Via Respe xit,
+            Respexit<note>This is a generic, unnumbered note.</note> hu mi li ta- <lb facs="#LCB_166v_line_02" xml:id="LCB_166v_lb_02" n="2"/>te m
+            an cil lae su ae, an cil lae su ae <lb facs="#LCB_166v_line_03" xml:id="LCB_166v_lb_03"
                n="3"/>an cil lae, an cil lae su ae. Ec ce<note n="1" type="comment">You can differentiate your notes as comments</note> eni m ex hoc Be a tam me dicent. Omnes ge-
-               <lb facs="#LCB_line_166v_04" xml:id="LCB_lb_166v_04" n="4"/>ne ra ti o nes, li.
-            Genera- <lb facs="#LCB_line_166v_05" xml:id="LCB_lb_166v_05" n="5"/>ti o nes, ii. Omnes
-            ge ne ra tio nes.<note n="a" type="critical">Or they can be critical notes.</note> <lb facs="#LCB_blankline_166v_01" xml:id="LCB_blank_166v_01" n="6"/><!-- facs="#LCB_line_166v_blankline_01" xml:id="LCB_lb_166v_06" -->
-            <lb facs="#LCB_line_166v_box2" xml:id="LCB_txtline_166_box2"/><choice><orig>Tenor</orig><reg>You can hover over words too.</reg></choice>. <lb
-               facs="#LCB_line_166v_07" xml:id="LCB_lb_166v_07" n="7"/><hi>Q</hi>Via Res pe xit hu
-            mi li ta tem, ancil lae su ae, an cil lae <lb facs="#LCB_line_166v_08"
-               xml:id="LCB_lb_166v_08" n="8"/>su ae. Ec ce eni m ex hoc Be a tam medicent. Omnes<lb
-               facs="#LCB_line_166v_09" xml:id="LCB_lb_166v_09" n="9"/>gene ra ti o nes. Omnes ge ne
-            ra ti o nes. <lb facs="#LCB_blankline_166v_02" xml:id="LCB_blank_166v_02" n="10"/>
-            <lb facs="#LCB_blankline_166v_03" xml:id="LCB_blank_166v_03" n="11"/>
-            <lb facs="#LCB_blankline_166v_04" xml:id="LCB_blank_166v_04" n="12"/>
+               <lb facs="#LCB_166v_line_04" xml:id="LCB_166v_lb_04" n="4"/>ne ra ti o nes, li.
+            Genera- <lb facs="#LCB_166v_line_05" xml:id="LCB_166v_lb_05" n="5"/>ti o nes, ii. Omnes
+            ge ne ra tio nes.<note n="a" type="critical">Or they can be critical notes.</note> <lb facs="#LCB_166v_blankline_01" xml:id="LCB_166v_blanktext_01" n="6"/><!-- facs="#LCB_166v_line_blankline_01" xml:id="LCB_166v_lb_06" -->
+            <lb facs="#LCB_166v_box_02" xml:id="LCB_166v_boxtxt_02"/><choice><orig>Tenor</orig><reg>You can hover over words too.</reg></choice>. <lb
+               facs="#LCB_166v_line_07" xml:id="LCB_166v_lb_07" n="7"/><hi>Q</hi>Via Res pe xit hu
+            mi li ta tem, ancil lae su ae, an cil lae <lb facs="#LCB_166v_line_08"
+               xml:id="LCB_166v_lb_08" n="8"/>su ae. Ec ce eni m ex hoc Be a tam medicent. Omnes<lb
+               facs="#LCB_166v_line_09" xml:id="LCB_166v_lb_09" n="9"/>gene ra ti o nes. Omnes ge ne
+            ra ti o nes. <lb facs="#LCB_166v_blankline_02" xml:id="LCB_166v_blanktext_02" n="10"/>
+            <lb facs="#LCB_166v_blankline_03" xml:id="LCB_166v_blanktext_03" n="11"/>
+            <lb facs="#LCB_166v_blankline_04" xml:id="LCB_166v_blanktext_04" n="12"/>
             
          </p>
          <pb n="167r" xml:id="folio_167r"/>
@@ -105,7 +137,7 @@
       </body>
       <back>
          <div type="hotspot">
-            <div facs="#LCB_line_166v_HS_01" xml:id="LCB_div_hs_166v_01">
+            <div facs="#LCB_166v_HS_01" xml:id="LCB_166v_hotspot_01">
                <p>The ornamented 'Q' is the first word of the him, 'Quia.' Each section of the choir
                   in the book begins with the same ornamented letter.</p>
                <figure>
