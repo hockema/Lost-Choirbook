@@ -151,6 +151,38 @@
    <text n="Choirbook" type="prose" xml:id="CB">
       <front/>
       <body>
+         <pb n="87r" xml:id="folio_87r"/>
+         <pb n="91r" xml:id="folio_91r"/>
+         <pb n="92v" xml:id="folio_92v"/>
+         <pb n="93r" xml:id="folio_93r"/>
+         <pb n="94v" xml:id="folio_94v"/>
+         <pb n="95r" xml:id="folio_95r"/>
+         <pb n="96v" xml:id="folio_96v"/>
+         <pb n="97r" xml:id="folio_97r"/>
+         <pb n="98v" xml:id="folio_98v"/>
+         <pb n="99r" xml:id="folio_99r"/>
+         <pb n="100v" xml:id="folio_100v"/>
+         <pb n="101r" xml:id="folio_101r"/>
+         <pb n="102v" xml:id="folio_102v"/>
+         <pb n="103r" xml:id="folio_103r"/>
+         <pb n="104v" xml:id="folio_104v"/>
+         <pb n="105r" xml:id="folio_105r"/>
+         <pb n="106v" xml:id="folio_106v"/>
+         <pb n="107r" xml:id="folio_107r"/>
+         <pb n="108v" xml:id="folio_108v"/>
+         <pb n="109r" xml:id="folio_109r"/>
+         <pb n="110v" xml:id="folio_110v"/>
+         <pb n="111r" xml:id="folio_111r"/>
+         <pb n="112v" xml:id="folio_112v"/>
+         <pb n="113r" xml:id="folio_113r"/>
+         <pb n="114v" xml:id="folio_114v"/>
+         <pb n="115r" xml:id="folio_115r"/>
+         <pb n="116v" xml:id="folio_116v"/>
+         <pb n="117r" xml:id="folio_117r"/>
+         <pb n="118v" xml:id="folio_118v"/>
+         <pb n="119r" xml:id="folio_119r"/>
+         <pb n="120v" xml:id="folio_120v"/>
+         <pb n="121r" xml:id="folio_121r"/>
          <pb n="166v" xml:id="folio_166v"/>
          <p>
             <lb rend="center" facs="#LCB_166v_header" xml:id="LCB_166v_headtxt"/>PRIMI TON 1. ilij.

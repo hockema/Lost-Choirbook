@@ -10,6 +10,38 @@
    </editions>
    <textpage>
       <text n="CB" label="Choirbook">
+         <pb n="87r">folio_87r</pb>
+         <pb n="91r">folio_91r</pb>
+         <pb n="92v">folio_92v</pb>
+         <pb n="93r">folio_93r</pb>
+         <pb n="94v">folio_94v</pb>
+         <pb n="95r">folio_95r</pb>
+         <pb n="96v">folio_96v</pb>
+         <pb n="97r">folio_97r</pb>
+         <pb n="98v">folio_98v</pb>
+         <pb n="99r">folio_99r</pb>
+         <pb n="100v">folio_100v</pb>
+         <pb n="101r">folio_101r</pb>
+         <pb n="102v">folio_102v</pb>
+         <pb n="103r">folio_103r</pb>
+         <pb n="104v">folio_104v</pb>
+         <pb n="105r">folio_105r</pb>
+         <pb n="106v">folio_106v</pb>
+         <pb n="107r">folio_107r</pb>
+         <pb n="108v">folio_108v</pb>
+         <pb n="109r">folio_109r</pb>
+         <pb n="110v">folio_110v</pb>
+         <pb n="111r">folio_111r</pb>
+         <pb n="112v">folio_112v</pb>
+         <pb n="113r">folio_113r</pb>
+         <pb n="114v">folio_114v</pb>
+         <pb n="115r">folio_115r</pb>
+         <pb n="116v">folio_116v</pb>
+         <pb n="117r">folio_117r</pb>
+         <pb n="118v">folio_118v</pb>
+         <pb n="119r">folio_119r</pb>
+         <pb n="120v">folio_120v</pb>
+         <pb n="121r">folio_121r</pb>
          <pb n="166v">folio_166v</pb>
          <pb n="167r">folio_167r</pb>
          <pb n="168v">folio_168v</pb>
@@ -33,6 +65,72 @@
       </text>
    </textpage>
    <pages>
+      <pair>
+         <pb n="87r">folio_87r</pb>
+      </pair>
+      <pair>
+         <pb n="91r">folio_91r</pb>
+      </pair>
+      <pair>
+         <pb n="92v">folio_92v</pb>
+         <pb n="93r">folio_93r</pb>
+      </pair>
+      <pair>
+         <pb n="94v">folio_94v</pb>
+         <pb n="95r">folio_95r</pb>
+      </pair>
+      <pair>
+         <pb n="96v">folio_96v</pb>
+         <pb n="97r">folio_97r</pb>
+      </pair>
+      <pair>
+         <pb n="98v">folio_98v</pb>
+         <pb n="99r">folio_99r</pb>
+      </pair>
+      <pair>
+         <pb n="100v">folio_100v</pb>
+         <pb n="101r">folio_101r</pb>
+      </pair>
+      <pair>
+         <pb n="102v">folio_102v</pb>
+         <pb n="103r">folio_103r</pb>
+      </pair>
+      <pair>
+         <pb n="104v">folio_104v</pb>
+         <pb n="105r">folio_105r</pb>
+      </pair>
+      <pair>
+         <pb n="106v">folio_106v</pb>
+         <pb n="107r">folio_107r</pb>
+      </pair>
+      <pair>
+         <pb n="108v">folio_108v</pb>
+         <pb n="109r">folio_109r</pb>
+      </pair>
+      <pair>
+         <pb n="110v">folio_110v</pb>
+         <pb n="111r">folio_111r</pb>
+      </pair>
+      <pair>
+         <pb n="112v">folio_112v</pb>
+         <pb n="113r">folio_113r</pb>
+      </pair>
+      <pair>
+         <pb n="114v">folio_114v</pb>
+         <pb n="115r">folio_115r</pb>
+      </pair>
+      <pair>
+         <pb n="116v">folio_116v</pb>
+         <pb n="117r">folio_117r</pb>
+      </pair>
+      <pair>
+         <pb n="118v">folio_118v</pb>
+         <pb n="119r">folio_119r</pb>
+      </pair>
+      <pair>
+         <pb n="120v">folio_120v</pb>
+         <pb n="121r">folio_121r</pb>
+      </pair>
       <pair>
          <pb n="166v">folio_166v</pb>
          <pb n="167r">folio_167r</pb>
