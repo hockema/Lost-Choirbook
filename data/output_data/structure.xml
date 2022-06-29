@@ -12,11 +12,17 @@
    <textpage>
       <text n="1" label="Front Matter">
          <pb n="Cover">folio_front</pb>
+         <pb n="Cover">folio_0v</pb>
          <pb n="Title Page">folio_tr</pb>
          <pb n="000">folio_tv</pb>
+         <pb n="1–86">folio_1r</pb>
       </text>
       <text n="2" label="Missa Elisabeth Zachariae">
+         <pb n="1–86">folio_2v</pb>
          <pb n="87r">folio_87r</pb>
+         <pb n="88v">folio_88v</pb>
+         <pb n="89r">folio_89r</pb>
+         <pb n="90v">folio_90v</pb>
          <pb n="91r">folio_91r</pb>
          <pb n="92v">folio_92v</pb>
          <pb n="93r">folio_93r</pb>
@@ -279,15 +285,29 @@
          <pb n="Cover">folio_front</pb>
       </pair>
       <pair>
+         <pb n="Cover">folio_0v</pb>
+      </pair>
+      <pair>
          <pb n="Title Page">folio_tr</pb>
       </pair>
       <pair>
          <pb n="000">folio_tv</pb>
       </pair>
       <pair>
+         <pb n="1–86">folio_1r</pb>
+      </pair>
+      <pair>
+         <pb n="1–86">folio_2v</pb>
+      </pair>
+      <pair>
          <pb n="87r">folio_87r</pb>
       </pair>
       <pair>
+         <pb n="88v">folio_88v</pb>
+         <pb n="89r">folio_89r</pb>
+      </pair>
+      <pair>
+         <pb n="90v">folio_90v</pb>
          <pb n="91r">folio_91r</pb>
       </pair>
       <pair>

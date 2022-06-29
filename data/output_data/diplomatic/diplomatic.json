@@ -17,6 +17,14 @@
 									"loc" : "no_page_info|no_page_info",
 									"inFront": "false" 
 								}, 
+							 
+								{ 
+									"line" : "no line info|no line info", 
+									"text" : " ", 
+									"tags" : "CB|Choirbook Front Matter", 
+									"loc" : "folio_front|Cover",
+									"inFront": "false" 
+								}, 
 							
 										{ 
 											"line" : "1|line 1",
@@ -52,12 +60,28 @@
 									
 										{ 
 											"line" : "no line info|no line info",
-											"text" : " Pages are missing throughout.  ",
-											"tags" : "CB|Choirbook Front Matter Missa Elisabeth Zachariae",
+											"text" : " Pages are missing throughout.",
+											"tags" : "1|Front Matter",
 											"loc" : "folio_tv|000",
 											"inFront": "false"
 										},
 									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : " ",
+											"tags" : "CB|Choirbook Front Matter Missa Elisabeth Zachariae",
+											"loc" : "folio_1r|1–86",
+											"inFront": "false"
+										},
+									 
+								{ 
+									"line" : "no line info|no line info", 
+									"text" : " ", 
+									"tags" : "CB|Choirbook Missa Elisabeth Zachariae", 
+									"loc" : "folio_1r|1–86",
+									"inFront": "false" 
+								}, 
+							
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -71,6 +95,30 @@
 									"text" : " ", 
 									"tags" : "CB|Choirbook Missa Elisabeth Zachariae", 
 									"loc" : "folio_87r|87r",
+									"inFront": "false" 
+								}, 
+							 
+								{ 
+									"line" : "no line info|no line info", 
+									"text" : " ", 
+									"tags" : "CB|Choirbook Missa Elisabeth Zachariae", 
+									"loc" : "folio_88v|88v",
+									"inFront": "false" 
+								}, 
+							 
+								{ 
+									"line" : "no line info|no line info", 
+									"text" : " ", 
+									"tags" : "CB|Choirbook Missa Elisabeth Zachariae", 
+									"loc" : "folio_89r|89r",
+									"inFront": "false" 
+								}, 
+							 
+								{ 
+									"line" : "no line info|no line info", 
+									"text" : " ", 
+									"tags" : "CB|Choirbook Missa Elisabeth Zachariae", 
+									"loc" : "folio_90v|90v",
 									"inFront": "false" 
 								}, 
 							 

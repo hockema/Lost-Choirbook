@@ -162,6 +162,7 @@
          </front>
          <body>
             <pb n="Cover" xml:id="folio_front"/>
+            <pb n="Cover" xml:id="folio_0v"/>
             <pb n="Title Page" xml:id="folio_tr"/>
                <p> 
                   <lb type="Title" rend="center" n="1"/>SVPERIORVM
@@ -171,6 +172,7 @@
                </p>
             <pb n="000" xml:id="folio_tv"/>
                <p><lb/>Pages are missing throughout.</p>
+            <pb n="Missing Pages" xml:id="folio_1r"/>    
          </body>
       </text>
 
@@ -195,8 +197,12 @@
             </div>
          </front>
          <body>
+            <pb n="Missing Pages" xml:id="folio_2v"/>
             <pb n="87r" xml:id="folio_87r"/>
             <p>Transcription goes here.</p>
+            <pb n="88v" xml:id="folio_88v"/>
+            <pb n="89r" xml:id="folio_89r"/>
+            <pb n="90v" xml:id="folio_90v"/>
             <pb n="91r" xml:id="folio_91r"/>
             <pb n="92v" xml:id="folio_92v"/>
             <pb n="93r" xml:id="folio_93r"/>
