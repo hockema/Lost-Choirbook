@@ -15,10 +15,10 @@
          <pb n="Cover">folio_0v</pb>
          <pb n="Title Page">folio_tr</pb>
          <pb n="000">folio_tv</pb>
-         <pb n="1–86">folio_1r</pb>
+         <pb n="1–85">folio_1r</pb>
       </text>
       <text n="2" label="Missa Elisabeth Zachariae">
-         <pb n="1–86">folio_2v</pb>
+         <pb n="86v">folio_86v</pb>
          <pb n="87r">folio_87r</pb>
          <pb n="88v">folio_88v</pb>
          <pb n="89r">folio_89r</pb>
@@ -113,8 +113,12 @@
          <pb n="170v">folio_170v</pb>
          <pb n="171r">folio_171r</pb>
          <pb n="172v">folio_172v</pb>
+         <pb n="173r">folio_173r</pb>
+         <pb n="174v">folio_174v</pb>
+         <pb n="175r">folio_175r</pb>
       </text>
       <text n="7" label="Magnificat Secundi toni">
+         <pb n="176v">folio_176v</pb>
          <pb n="177r">folio_177r</pb>
          <pb n="178v">folio_178v</pb>
          <pb n="179r">folio_179r</pb>
@@ -131,6 +135,12 @@
          <pb n="188v">folio_188v</pb>
          <pb n="189r">folio_189r</pb>
          <pb n="190v">folio_190v</pb>
+         <pb n="191r">folio_191r</pb>
+         <pb n="192v">folio_192v</pb>
+         <pb n="193r">folio_193r</pb>
+         <pb n="194v">folio_194v</pb>
+         <pb n="195r">folio_195r</pb>
+         <pb n="196v">folio_196v</pb>
          <pb n="197r">folio_197r</pb>
       </text>
       <text n="9" label="Magnificat Quarti toni">
@@ -272,10 +282,13 @@
       <text n="28" label="Benedicamus Domino [2]">
          <pb n="296v">folio_296v</pb>
       </text>
-      <text n="29" label="Benedicamus Domino [3]">
-         <pb n="296v">folio_296v</pb>
+      <text n="29" label="?Benedicamus Domino [3]">
+         <pb n="298v">298v</pb>
       </text>
-      <text n="30" label="Back Cover">
+      <text n="30" label="colophon">
+         <pb n="300v">300v</pb>
+      </text>
+      <text n="31" label="Back Cover">
          <pb n="301r">folio_301r</pb>
          <pb n="Back Cover">folio_back</pb>
       </text>
@@ -294,12 +307,10 @@
          <pb n="000">folio_tv</pb>
       </pair>
       <pair>
-         <pb n="1–86">folio_1r</pb>
+         <pb n="1–85">folio_1r</pb>
       </pair>
       <pair>
-         <pb n="1–86">folio_2v</pb>
-      </pair>
-      <pair>
+         <pb n="86v">folio_86v</pb>
          <pb n="87r">folio_87r</pb>
       </pair>
       <pair>
@@ -474,8 +485,14 @@
       </pair>
       <pair>
          <pb n="172v">folio_172v</pb>
+         <pb n="173r">folio_173r</pb>
       </pair>
       <pair>
+         <pb n="174v">folio_174v</pb>
+         <pb n="175r">folio_175r</pb>
+      </pair>
+      <pair>
+         <pb n="176v">folio_176v</pb>
          <pb n="177r">folio_177r</pb>
       </pair>
       <pair>
@@ -504,8 +521,18 @@
       </pair>
       <pair>
          <pb n="190v">folio_190v</pb>
+         <pb n="191r">folio_191r</pb>
       </pair>
       <pair>
+         <pb n="192v">folio_192v</pb>
+         <pb n="193r">folio_193r</pb>
+      </pair>
+      <pair>
+         <pb n="194v">folio_194v</pb>
+         <pb n="195r">folio_195r</pb>
+      </pair>
+      <pair>
+         <pb n="196v">folio_196v</pb>
          <pb n="197r">folio_197r</pb>
       </pair>
       <pair>
@@ -710,6 +737,10 @@
          <pb n="296v">folio_296v</pb>
       </pair>
       <pair>
+         <pb n="298v">298v</pb>
+      </pair>
+      <pair>
+         <pb n="300v">300v</pb>
          <pb n="301r">folio_301r</pb>
       </pair>
       <pair>

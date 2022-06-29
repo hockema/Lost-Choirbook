@@ -157,7 +157,9 @@
       <text n="Front Matter">
          <front>
             <div>
-               <p>This choir book belonging to Diego de Bruceña is ...</p>
+               <p>[Information about cover?]
+               <lb/> A fragment of the lower inside quadrant is all that remains of the torn title page.
+               <lb/> The first two Masses from pp. [1]-[85] are missing.</p>
             </div>
          </front>
          <body>
@@ -165,39 +167,40 @@
             <pb n="Cover" xml:id="folio_0v"/>
             <pb n="Title Page" xml:id="folio_tr"/>
                <p> 
-                  <lb type="Title" rend="center" n="1"/>SVPERIORVM
-                  <lb type="Title" rend="center" n="1"/>SALMAT
-                  <lb type="Title" rend="center" n="1"/>Ex officina typographica Antoni j V
-                  <lb type="Title" rend="center" n="1"/>Anno a Christo nato M. DC.
+                  <lb type="Title" rend="center" n="1"/>SVPERIORVM [PERMISSV]
+                  <lb type="Title" rend="center" n="1"/>SALMA[N]T[ICAE]
+                  <lb type="Title" rend="center" n="1"/>Ex officina typographica Antonij V[AZQUEZ]
+                  <lb type="Title" rend="center" n="1"/>Anno à Christo nato M. DC.
                </p>
             <pb n="000" xml:id="folio_tv"/>
                <p><lb/>Pages are missing throughout.</p>
-            <pb n="Missing Pages" xml:id="folio_1r"/>    
+            <pb n="1–85" xml:id="folio_1r"/>    
          </body>
       </text>
 
       <text n="Missa Elisabeth Zachariae">
          <front>
             <div>
-               <p>92 MISSA ELISABETH ZACHARIAE. iiij vocum. // DIDACVS DE BRUCENA. 93. Kyrie, Gloria, and Credo: missing.
-               Sanctus ([86]-[89]): Superius and Tenor missing; small losses from Altus and Bassus; Osanna in 3/2
-               <lb/>
-               The upper outside quadrant of pp. 87-88 survives, detatched from the book. Most of the Altus and some of the Bassus
+               <p><lb rend="center"/><emph rend="bold">Missa Elisabeth Zachariae (4vv)</emph>
+               <lb rend="empty"/>
+               <lb/>92 MISSA ELISABETH ZACHARIAE. iiij. vocum. // DIDACVS DE BRUCEÑA. 93. <emph rend="italic">Kyrie</emph>, <emph rend="italic">Gloria</emph>, and <emph rend="italic">Credo</emph>: missing.
+               <lb/><emph rend="italic">Sanctus</emph> ([86]-[89]): Superius and Tenor missing; small losses from Altus and Bassus; <emph rend="italic">Osanna</emph> in 3/2.
+               <lb/>The upper outside quadrant of pp. 87-88 survives, detatched from the book. Most of the Altus and some of the Bassus
                is preserved on p. 87 while most of the Superius and some of the Tenor is preserved on p. 88. A small fragment of the outer side
-               of pp. [89]-[90] survives, detatched from the binding. It preserves some notes from the BAssus of the Sanctus and the
-               Tenor of the Benedictus.
+               of pp. [89]-[90] survives, detatched from the binding. It preserves some notes from the Bassus of the <emph rend="italic">Sanctus</emph> and the
+               Tenor of the <emph rend="italic">Benedictus</emph>.
                <lb/>
-               Benedictus ([90]-91): 3vv (SAT), Altus complete; Superius missing, significant losses from Tenor.
+               <emph rend="italic">Benedictus</emph> ([90]-91): 3vv (SAT), Altus complete; Superius missing, significant losses from Tenor.
                <lb/>
-               Agnus (92-3): Superius, Altus, Tenor complete; Bassus lacks most of final stave.
+               <emph rend="italic">Agnus</emph> (92-3): Superius, Altus, and Tenor complete; Bassus lacks most of final stave.
                <lb/>
-               Source motet: Francisco Guerrero, Elisabeth Zacharaiae (secunda pars: Dominus ab utero) 5vv (SSTTB) from Mottetta
-               (Venice: Filio Antonii Gardani, 1570) [RISM G4871], no. 48 and Motecta (Venice: Giacomo Vincenti, 1597)
+               Source motet: Francisco Guerrero, <emph rend="italic">Elisabeth Zacharaiae</emph> (secunda pars: <emph rend="italic">Dominus ab utero</emph>) 5vv (SSTTB) from <emph rend="italic">Mottetta</emph>
+               (Venice: Filio Antonii Gardani, 1570) [RISM G4871], no. 48 and <emph rend="italic">Motecta</emph> (Venice: Giacomo Vincenti, 1597)
                [RISM G4877], no. 47.</p>
             </div>
          </front>
          <body>
-            <pb n="Missing Pages" xml:id="folio_2v"/>
+            <pb n="86v" xml:id="folio_86v"/>
             <pb n="87r" xml:id="folio_87r"/>
             <p>Transcription goes here.</p>
             <pb n="88v" xml:id="folio_88v"/>
@@ -210,6 +213,22 @@
       </text>
       
       <text n="Missa Quae est ista">
+         <front>
+            <div>
+               <p><lb rend="center"/><emph rend="bold">Missa Quae est ista (4vv)</emph>
+               <lb rend="empty"/>
+               <lb/>94 MISSA QVE PROGREDITVR. iiij. vocum. // DIDACVS DE BRVCEÑA. 95
+               <lb/><emph rend="italics">Kyrie</emph> (94-99): Superius, Altus, and Bassus complete; minor losses from Tenor.
+               <lb/><emph rend="italics">Gloria</emph> (100-107): Superius complete; minor losses from Altus, Tenor and Bassus.
+               <lb/><emph rend="italics">Credo</emph> (108-117): Superius and Altus complete; minor losses from Tenor and Bassus.
+               <lb/><emph rend="italics">Sanctus</emph> (118-119): complete.
+               <lb/><emph rend="italics">Benedictus</emph> (120-121): 3vv (SAB), complete.
+               <lb/><emph rend="italics">Agnus</emph> (122-123): complete.
+               <lb/>Source motet: Giovanni Pierluigi da Palestrina, <emph rend="italics">Quae es ista quae progreditur</emph> 5vv (SSTTB) from
+               <emph rend="italics">Motettorum quinque vocibus liber quartus</emph> (Rome: Alessandro Gardano, 1584) [Tenor and Bassus, 1583;
+               Superius, Altus, and Quintus, 1584] [RISM P716], no. 23.</p>
+            </div>
+         </front>
          <body>
             <pb n="94v" xml:id="folio_94v"/>
             <p>Transcription goes here.</p>
@@ -246,6 +265,22 @@
       </text>
       
       <text n="Missa Tu es pastor ovium">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Missa Tu es pastor ovium (4vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>124 MISSA TV ES PARTOR [sic] OVIVM. iiij. vocum. // DIDACVS DE BRVCEÑA. 125
+                  <lb/><emph rend="italics">Kyrie</emph> (124-125): Superius and Altus complete; significant losses from Tenor, minor losses from Bassus.
+                  <lb/><emph rend="italics">Gloria</emph> (126-129): Superius and Altus complete; significant losses from Tenor, minor losses from Bassus.
+                  <lb/><emph rend="italics">Credo</emph> (130-135): Superius and Altus complete; significant losses from Tenor and Bassus.
+                  <lb/><emph rend="italics">Sanctus</emph> (136-137): Superius and Altus complete; some losses from Tenor and Bassus.
+                  <lb/><emph rend="italics">Benedictus</emph> (138-139): 3vv (SAT) complete.
+                  <lb/><emph rend="italics">Agnus</emph> (140-141): complete.
+                  <lb/>Source motet: Giovanni Pierluigi da Palestrina, <emph rend="italics">Tu es pastor ovium</emph> 4vv (SATB), from
+               <emph rend="italics">Motecta festorum totius anni liber primus</emph> (Venice: Antonio Gardano, 1564) [RISM P689], no. 14.</p>
+            </div>
+         </front>
          <body>
             <pb n="124v" xml:id="folio_124v"/>
             <p>Transcription goes here.</p>
@@ -270,6 +305,22 @@
       </text>
       
       <text n="Missa Veni de Libano">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Missa Veni de Libano (4vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>142 MISSA VENI DE LIBANO. iiij. vocum. // DIDACVS DE BRVCEÑA. 143
+                  <lb/><emph rend="italics">Kyrie</emph> (142-143): Superius, Altus, and Bassus complete; losses from Tenor.
+                  <lb/><emph rend="italics">Gloria</emph> (144-147): complete.
+                  <lb/><emph rend="italics">Credo</emph> (148-157): Superius and Altus complete; significant losses from Tenor and Bassus.
+                  <lb/><emph rend="italics">Sanctus</emph> (158-159): complete.
+                  <lb/><emph rend="italics">Benedictus</emph> (160-161): 3vv (ATB) complete. SVPERIVS TACET.
+                  <lb/><emph rend="italics">Agnus</emph> (162-163): 5vv (SSATB) complete.
+                  <lb/><emph rend="italics">Veni de Libano</emph>: source unidentified.
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="142v" xml:id="folio_142v"/>
             <p>Transcription goes here.</p>
@@ -298,6 +349,22 @@
       </text>
       
       <text n="Magnificat Primi toni">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Magnificat Primi toni (4vv/3vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>164 PRIMI TONI. iiij. vocum. // DIDACVS DE BRVCEÑA. 165
+                  <lb/>Pages 173-175 missing.
+                  <lb/><emph rend="italics">Anima mea</emph> (164-165): 4vv (SATB) complete.
+                  <lb/><emph rend="italics">Quia respexit</emph> (166-167): 4vv (SATB) complete.
+                  <lb/><emph rend="italics">Et misericordia</emph> (168-169): 3vv (SAT) complet. BASVS REQVIESCIT.
+                  <lb/><emph rend="italics">Deposuit</emph> (170-171): 4vv (SATB) complete.
+                  <lb/><emph rend="italics">Suscepit</emph> (172-[173]): 4vv (SATB) Superius and Tenor complete, Altus and Tenor(?) missing.
+                  <lb/><emph rend="italics">Gloria patri</emph> ([174-175]): missing.
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="164v" xml:id="folio_164v"/>
             <pb n="165r" xml:id="folio_165r"/>
@@ -369,9 +436,9 @@
             <pb n="170v" xml:id="folio_170v"/>
             <pb n="171r" xml:id="folio_171r"/>
             <pb n="172v" xml:id="folio_172v"/>
-            <!--<pb n="173r" xml:id="folio_173r"/>
-               <pb n="174v" xml:id="folio_174v"/>
-               <pb n="175r" xml:id="folio_175r"/> -->
+            <pb n="173r" xml:id="folio_173r"/>
+            <pb n="174v" xml:id="folio_174v"/>
+            <pb n="175r" xml:id="folio_175r"/>
          </body>
          <back>
             <div type="hotspot">
@@ -393,8 +460,24 @@
       </text>
       
       <text n="Magnificat Secundi toni">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Magnificat Secundi toni (5vv/4vv/6vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>[176 SECVNDI TONI. v. vocum.] // DIDACVS DE BRVCEÑA. 177
+                  <lb/>Page 176 missing.
+                  <lb/><emph rend="italics">Anima mea</emph> ([176]-177): 5vv (SSATB) Superius 1 and Tenor missing; Superius 2, Altus, and Bassus complete.
+                  <lb/><emph rend="italics">Quia respexit</emph> (178-179): 5vv (SSATB) complete.
+                  <lb/><emph rend="italics">Et misericordia</emph> (180-181): 4vv (SSAT) complete.
+                  <lb/><emph rend="italics">Deposuit</emph> (182-183): 5vv (SSATB) complete.
+                  <lb/><emph rend="italics">Suscepit</emph> (184-185): 5vv (SSATB) complete. 
+                  <lb/><emph rend="italics">Gloria patri</emph> (186-187): 6vv (SSAATB) complete. Superius 1 Canon in unisonus; Tenor sing second tone <emph rend="italics">cantus firmus</emph>.
+               </p>
+            </div>
+         </front>
          <body>
-            <!-- <pb n="176v" xml:id="folio_176v"/>-->
+            <pb n="176v" xml:id="folio_176v"/>
             <pb n="177r" xml:id="folio_177r"/>
             <p>
                <lb n="1" xml:id="LCB_177r_lb01"/>Transcription goes here.
@@ -413,16 +496,53 @@
       </text>
       
       <text n="Magnificat Tertii toni">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Magnificat Tertii toni (4vv/3vv/6vv?)</emph>
+                  <lb rend="empty"/>
+                  <lb/>188 TERTII TONI. iiij. vocum. // DIDACVS DE BRUCEÑA. 189
+                  <lb/>Pages 191-196 missing.
+                  <lb/><emph rend="italics">Anima mea</emph> (188-189): 4vv (SATB) complete.
+                  <lb/><emph rend="italics">Quia respexit</emph> (188-189): 4vv (SATB) Superius, Altus, and Tenor complete; minor losses from Bassus.
+                  <lb/><emph rend="italics">Et misericordia</emph> (190-[191]): 3vv (AAB?) Altus 1 complete; Altus 2 and Bassus (?) missing.
+                  <lb/><emph rend="italics">Deposuit</emph> ([192-193]): [4vv (SATB)] missing.
+                  <lb/><emph rend="italics">Suscepit</emph> ([194-195]): [4vv (SATB)] missing.
+                  <lb/><emph rend="italics">Gloria patri</emph> ([196]-197): 5vv? (SSATB) Superius 1 and Tenor missing; Superius 2 and Altus complete; minor losses from Bassus. Altus: Superius in diateseron (sic).
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="188v" xml:id="folio_188v"/>
             <p>Transcription goes here.</p>
             <pb n="189r" xml:id="folio_189r"/>
             <pb n="190v" xml:id="folio_190v"/>
+            <pb n="191r" xml:id="folio_191r"/>
+            <pb n="192v" xml:id="folio_192v"/>
+            <pb n="193r" xml:id="folio_193r"/>
+            <pb n="194v" xml:id="folio_194v"/>
+            <pb n="195r" xml:id="folio_195r"/>
+            <pb n="196v" xml:id="folio_196v"/>
             <pb n="197r" xml:id="folio_197r"/>
          </body>
       </text>
       
       <text n="Magnificat Quarti toni">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Magnificat Quarti toni (4vv/3vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>198 QVARTI TONI. iiij. vocum. // DIDACVS DE BRVCEÑA. 199
+                  <lb/><emph rend="italics">Anima mea</emph> (198-199): 4vv (SATB) complete.
+                  <lb/><emph rend="italics">Quia respexit</emph> (198-199): 4vv (SATB) Superius, Altus, and Tenor complete; minor losses from Bassus.
+                  <lb/><emph rend="italics">Et misericordia</emph> (200-201): 3vv (SAT) complete. BASVS TACET.
+                  <lb/><emph rend="italics">Deposuit</emph> (202-203): 4vv (SATB) complete.
+                  <lb/><emph rend="italics">Suscepit</emph> (204-205): 4vv (SATB) complete.
+                  <lb/><emph rend="italics">Gloria patri</emph> (206-207): 4vv (SATB) Superius, Altus, and Bassus complete; losses from Tenor. S and A have 3/2; T and B have 3/2 in error.
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="198v" xml:id="folio_198v"/>
             <p>Transcription goes here.</p>
@@ -439,6 +559,21 @@
       </text>
       
       <text n="Magnificat Quinti toni">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Magnificat Quinti toni (4vv/3vv/6vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>208 QVINTI TONI. iiij. vocum.] // DIDACVS DE BRVCEÑA. 209
+                  <lb/><emph rend="italics">Anima mea</emph> (208-209): 4vv (SATB) complete.
+                  <lb/><emph rend="italics">Quia respexit</emph> (210-211): 4vv (SATB) complete.
+                  <lb/><emph rend="italics">Et misericordia</emph> (212-213): 3vv (SAT) complete. BASVS REQVIESCIT.
+                  <lb/><emph rend="italics">Deposuit</emph> (214-215): 4vv (SATB) complete.
+                  <lb/><emph rend="italics">Suscepit</emph> (216-217): 4vv (SATB) complete. 
+                  <lb/><emph rend="italics">Gloria patri</emph> (218-219): 6vv (SSAATB) complete. Altus 2: CANON IN DIAPENTE.
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="208v" xml:id="folio_208v"/>
             <p>Transcription goes here.</p>
@@ -457,6 +592,21 @@
       </text>
       
       <text n="Magnificat Sexti toni">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Magnificat Sexti toni (4vv/3vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>220 SEXTI TONI. iiij. vocum.] // DIDACVS DE BRVCEÑA. 221
+                  <lb/><emph rend="italics">Anima mea</emph> (220-221): 4vv (SATB) complete.
+                  <lb/><emph rend="italics">Quia respexit</emph> (222-221 [<emph rend="italics">recte</emph> 223): 4vv (SATB) complete.
+                  <lb/><emph rend="italics">Et misericordia</emph> (224-225): 3vv (SAT) complete. BASVS TACET.
+                  <lb/><emph rend="italics">Deposuit</emph> (226-227): 4vv (SATB) complete.
+                  <lb/><emph rend="italics">Suscepit</emph> (228-227 [<emph rend="italics">recte</emph> 229): 4vv (SATB) complete. 
+                  <lb/><emph rend="italics">Gloria patri</emph> (218-219): 4vv (SSAT) complete.
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="220v" xml:id="folio_220v"/>
             <p>Transcription goes here.</p>
@@ -475,6 +625,21 @@
       </text>
       
       <text n="Magnificat Septimi toni">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Magnificat Septimi toni (4vv/3vv/6vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>232 SEPTIMI TONI. iiij. vocum.] // DIDACVS DE BRVCEÑA. 233
+                  <lb/><emph rend="italics">Anima mea</emph> (232-233): 4vv (SATB) complete.
+                  <lb/><emph rend="italics">Quia respexit</emph> (232-233): 4vv (SATB) complete.
+                  <lb/><emph rend="italics">Et misericordia</emph> (234-235): 3vv (ATB) complete. SVPERIVS TACET.
+                  <lb/><emph rend="italics">Deposuit</emph> (236-237): 4vv (SATB) complete.
+                  <lb/><emph rend="italics">Suscepit</emph> (238-239): 4vv (SATB) complete. 
+                  <lb/><emph rend="italics">Gloria patri</emph> (240-241): 6vv (SSAATB) Superius 1, Superius 2, Altus 1, Altus 2, and Bassus complete. minor losses from Tenor; Altus 1: Resolutio in Septima, Bassus: CANON Altus in Septima.
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="232v" xml:id="folio_232v"/>
             <p>Transcription goes here.</p>
@@ -491,6 +656,21 @@
       </text>
       
       <text n="Magnificat Octavi toni">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Magnificat Octavi toni (4vv/3vv/6vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>242 OCTAVI TONI. iiij. vocum.] // DIDACVS DE BRVCEÑA. 243
+                  <lb/><emph rend="italics">Anima mea</emph> (242-243): 4vv (SATB) complete.
+                  <lb/><emph rend="italics">Quia respexit</emph> (242-243): 4vv (SATB) complete.
+                  <lb/><emph rend="italics">Et misericordia</emph> (244-245): 3vv (SAT) complete. BASVS REQVIESCIT.
+                  <lb/><emph rend="italics">Deposuit</emph> (246-247): 4vv (SATB) complete.
+                  <lb/><emph rend="italics">Suscepit</emph> (248-249): 4vv (SATB) complete. 
+                  <lb/><emph rend="italics">Gloria patri</emph> (250-251): 6vv (SSAATB) complete. Canon. Tenor. In diapason. Altus. In diapente. Bassus. In duodezima. vj. vocu[m].
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="242v" xml:id="folio_242v"/>
             <p>Transcription goes here.</p>
@@ -507,6 +687,18 @@
       </text>
       
       <text n="Tribulationes cordis mea">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Tribulationes cordis mea (6vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>252 PRO QVACVNQVE NECESSITATE. vj. vocu[m]. // DIDACVS DE BRVCEÑA. 253
+                  <lb/>Motet (SSAATB), all voices complete.
+                  <lb/>TRibulationes cordis mei dilatate sunt, De necessitatibus meis, eripe me Domine vide 
+                  humilitatem meam &amp; laborem meum, &amp; dimite omnia peccata mea. (Psalm 24: 17-18).
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="252v" xml:id="folio_252v"/>
             <p>Transcription goes here.</p>
@@ -517,6 +709,18 @@
       </text>
       
       <text n="Hoc est praeceptum meum">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Hoc est praeceptum meum (6vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>256 COMVNE APOSTOLORVM. vj. vocum. // DIDACVS DE BRVCEÑA. 257
+                  <lb/>Motet (SSAATB), all voices complete.
+                  <lb/>HOc est præceptum meum, vt diligatis inuicem sicut dilexi vos. Maiorem charitatem nemo
+                  habet, vt animam suam ponat quis pro amicis suis. (John 15: 12-13).
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="256v" xml:id="folio_256v"/>
             <p>Transcription goes here.</p>
@@ -527,6 +731,18 @@
       </text>
       
       <text n="Iste Sanctus">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Iste Sanctus (6vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>260 COMVNE VNIVS MARTIRIS. vj. vocu[m]. // DIDACVS DE BRVCEÑA. 261
+                  <lb/>Motet (SSAATB), all voices complete. 
+                  <lb/>ISte sanctus pro lege Dei sui, certauit vsque ad mortem, &amp; à verbis impiorum non timuit
+                  fundatus enim erat supra firmam petram. (Antiphon at the magnificat, common of a martyr).
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="260v" xml:id="folio_260v"/>
             <p>Transcription goes here.</p>
@@ -537,6 +753,20 @@
       </text>
       
       <text n="Ave sanctissima Maria">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Ave sanctissima Maria (6vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>264 DE VEATA VIRGINE. vj. vocum. // DIDACVS DE BRVCEÑA. 265
+                  <lb/>Motet (SSAATB), all voices complete. Words <emph rend="italics">tu singularis</emph> set in 3/2. S1 and S2
+                  have 3/2 in error.
+                  <lb/>AVe sanctissima Maria. Mater Dei, Regina cœli, Porta Paradisi, Domina mundi, tu singularis pura es Virgo tu 
+                  Concepisti lesum sine peccato, libera me ab omni malo, &amp; ora pro peccatis meis. (Marian devotional antiphon,
+                  <emph rend="italics">Breviarum Romanum completissimum</emph> [Venice: Lucantonio Giunta, 1522] f. 23v.
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="264v" xml:id="folio_264v"/>
             <p>Transcription goes here.</p>
@@ -549,6 +779,21 @@
       </text>
       
       <text n="Stabat mater">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Stabat mater (5vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>270 DE BEATA VIRGINE. vj. [sic] vocum. // DIDACVS DE BRVCEÑA. 271
+                  <lb/>Motet (SSATB), all voices complete.
+                  <lb rend="empty"/>
+                  <lb/>STabat mater dolorosa, <lb/>iusta crucem lachrimosa, <lb/>dum pendebat Filius. <lb rend="empty"/>
+                  <lb/>Cuius animam gemente[m], <lb/>Contristantem &amp; dolentem <lb/>pertransiuit gladius.
+                  <lb rend="empty"/><lb/>ò quam tristis &amp; aflicta <lb/>fuit illa benedicta, <lb/>mater vnigeniti.
+                  (Sequence extract).
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="270v" xml:id="folio_270v"/>
             <p>Transcription goes here.</p>
@@ -559,6 +804,19 @@
       </text>
       
       <text n="O Ildefonse">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">O Ildefonse (4vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>274 DE BEATO ILLEFONSO. iiij. vocum. // DIDACVS DE BRVCEÑA. 275
+                  <lb/>Motet (SATB), all voices complete. 
+                  <lb/>O Ildefonsæ per te vibit domina mea quæ cœli culmina tenet &amp; præsula colaudato redibat.
+                  (Constantinus Caietanus, <emph rend="italics">Sanctorum trium episcoporum religionis</emph>... [Rome:
+                   Mascardum, 1606], p. 118).
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="274v" xml:id="folio_274v"/>
             <p>Transcription goes here.</p>
@@ -567,6 +825,18 @@
       </text>
       
       <text n="Gaudent in caelis">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Gaudent in caelis (4vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>276 COMVNE PLVRIMORVM MARTIRVM. iiij. vocum. // DIDACVS DE BRVCEÑA. 277
+                  <lb/>Motet (SATB), all voices complete.
+                  <lb/>GAudent in cœlis animæ sanctorum qui Christi vestigia sunt secuti, &amp; quia pro eius amore
+                  sanguine[m] suum suderunt. (Antiphon at the magnificat, common of mny martyrs).
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="276v" xml:id="folio_276v"/>
             <p>Transcription goes here.</p>
@@ -575,6 +845,18 @@
       </text>
       
       <text n="Hic vir despiciens mundum">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Hic vir despicien mundum (4vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>278 Comune Confessorum non Pontificum. iiij. vocum. // DIDACVS DE BRVCEÑA. 279
+                  <lb/>Motet (SATB), all voices complete.
+                  <lb/>HIc vir dispiciens mundu[m] &amp; terrena triumphas, diuitia cœlo condidit ore manu. (Antiphon
+                  at the magnificat, common of a confessor not a bishop).
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="278v" xml:id="folio_278v"/>
             <p>Transcription goes here.</p>
@@ -583,6 +865,18 @@
       </text>
       
       <text n="O doctor optime">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">O doctor optime (4vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>280 COMVNE DOCTORVM. iiij. vocum. // DIDACVS DE BRVCEÑA. 281
+                  <lb/>Motet (SATB), all voices complete. 
+                  <lb/>O Doctor optime Ecclessiæ sancte lumen, Beate Hieronyme, diuinæ legis amator depræcare
+                  pro nobis filium Dei. (Antiphon at the magnificat, common of doctors of the church).
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="280v" xml:id="folio_280v"/>
             <p>Transcription goes here.</p>
@@ -591,6 +885,19 @@
       </text>
       
       <text n="Assumpsit Jesus Petrum">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Assumpsit Jesus Petrum (4vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>282 In transfiguracione Domini. iiij. vocum. // DIDACVS DE BRVCEÑA. 281 [<emph rend="italics">recte</emph> 283]
+                  <lb/>Motet (SSAT), all voices complete.
+                  <lb/>ASumpsit Iesus Petrum &amp; Iacobum &amp; Ioannem frate[m] eius, eduxit eos in montem excelsum
+                  seorsum &amp; transfiguratus est ante eos. (Matthew 17: 1-2a).
+                  <lb/>The first note in the fourth stave of the Tenor has been corrected by hand to F sharp.
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="282v" xml:id="folio_282v"/>
             <p>Transcription goes here.</p>
@@ -599,6 +906,18 @@
       </text>
       
       <text n="Veni sponsa Christi">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Veni sponsa Christi (4vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>284 COMVNE VIRGINVUM. iiij. vocum. // DIDACVS DE BRVCEÑA. 285
+                  <lb/>Motet (SATB), all voices complete. 
+                  <lb/>VEni sponsa Christi accipe coronam quam tibi Dominum preparauit in eternum. (Antiphon at the 
+                  magnificat, common of virgins).
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="284v" xml:id="folio_284v"/>
             <p>Transcription goes here.</p>
@@ -607,6 +926,18 @@
       </text>
       
       <text n="Amavit eum Dominus">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Amavit eum Dominus (4vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>286 Comune Confessorum Pontificum. iiij. vocum. // DIDACVS DE BRVCEÑA. 287
+                  <lb/>Motet (SATB), all voices complete.
+                  <lb/>AMauit eum Dominus &amp; ornauit eum, stolam gloriæ induit eum, &amp; ad portas Paradisi
+                  coronauit eum. (Antiphon at the magnificat, second vespers, common of a confessor bishop).
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="286v" xml:id="folio_286v"/>
             <p>Transcription goes here.</p>
@@ -615,6 +946,18 @@
       </text>
       
       <text n="Salve regina">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Salve regina (5vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/>288 DE BEATA VIRGINE. v. vocu[m]. // DIDACVS DE BRVCEÑA. 289
+                  <lb/>Marian antiphon (SSATB) alternatim setting.
+                  <lb/><emph rend="italics">Vita dulcedo</emph> (288-289): 5vv (SSATB) complete.
+                  <lb/><emph rend="italics">Ad te suspiramus</emph> (290-[293]): 5vv (S[SA]TB) Superius 1, Tenor, and Bassus complete; Superius 2 missing; significant losses from Altus.
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="288v" xml:id="folio_288v"/>
             <p>Transcription goes here.</p>
@@ -627,6 +970,18 @@
       </text>
       
       <text n="Benedicamus Domino [1]">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Benedicamus Domino [1] (4vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/><emph rend="italics">Benedicamus Domino</emph> ([294-95]): 4vv (SATB) Superius and Altus missing; minor losses from Tenor, some losses from Bassus.
+                  <lb/>p. 294 (beneath Tenor): <lb/>BASVS. Eam in Subdiapason. <lb/>SVPERIVS. Basum in duodezima.
+                  <lb/>ALTVS. Superiu[m] in Subdiapason. <lb/>TENOR. Altum in Subdiapason.
+                  <lb/>p. 295 (beneath Bass): <lb/>Quando fuerit hæc. <lb/>Omnes he quatuor vozes. <lb/>Vt sunt Anotate.
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="294v" xml:id="folio_294v"/>
             <p>Transcription goes here.</p>
@@ -635,15 +990,42 @@
       </text>
       
       <text n="Benedicamus Domino [2]">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">Benedicamus Domino [2] (4vv)</emph>
+                  <lb rend="empty"/>
+                  <lb/><emph rend="italics">Benedicamus Domino</emph> ([296-297]): 4vv (SATB): Superius missing, Tenor complete; Altus and Bassus missing.
+                  [Ca]non non venio. Vado Retrorsum &amp; non venio.
+               </p>
+            </div>
+         </front>
          <body>
             <pb n="296v" xml:id="folio_296v"/>
             <p>Transcription goes here.</p>
          </body>
       </text>
       
-      <text n="Benedicamus Domino [3]">
+      <text n="?Benedicamus Domino [3]">
+         <front>
+            <div>
+               <p>
+                  <lb rend="center"/><emph rend="bold">[?Benedicamus Domino 3]</emph>
+                  <lb rend="empty"/>
+                  <lb/><emph rend="italics">?Benedicamus Domino</emph> ([289-299]). Missing.
+               </p>
+            </div>
+         </front>
          <body>
+            <pb n="298v"/>
             <p>Nothing is here yet</p>
+         </body>
+      </text>
+      
+      <text n="colophon">
+         <body>
+            <pb n="300v"/>
+            <p>Text</p>
          </body>
       </text>
       

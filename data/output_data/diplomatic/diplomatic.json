@@ -2,14 +2,14 @@
 				{"pages": [
 				
 					
-									{
-									"line" : "|",
-									"text" : "This choir book belonging to Diego de Bruceña is ...",
-									"tags" : "1|Front Matter",
-									"loc" : "no_page_info|no_page_info",
-									"inFront": "true"
-									},
-								 
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Front Matter",
+											"loc" : "no_page_info|no_page_info",
+											"inFront": "false"
+										},
+									 
 								{ 
 									"line" : "no line info|no line info", 
 									"text" : " ", 
@@ -28,7 +28,7 @@
 							
 										{ 
 											"line" : "1|line 1",
-											"text" : "SVPERIORVM ",
+											"text" : "SVPERIORVM [PERMISSV] ",
 											"tags" : "CB|Choirbook Front Matter",
 											"loc" : "folio_tr|Title Page",
 											"inFront": "false"
@@ -36,7 +36,7 @@
 									
 										{ 
 											"line" : "1|line 1",
-											"text" : "SALMAT ",
+											"text" : "SALMA[N]T[ICAE] ",
 											"tags" : "CB|Choirbook Front Matter",
 											"loc" : "folio_tr|Title Page",
 											"inFront": "false"
@@ -44,7 +44,7 @@
 									
 										{ 
 											"line" : "1|line 1",
-											"text" : "Ex officina typographica Antoni j V ",
+											"text" : "Ex officina typographica Antonij V[AZQUEZ] ",
 											"tags" : "CB|Choirbook Front Matter",
 											"loc" : "folio_tr|Title Page",
 											"inFront": "false"
@@ -52,7 +52,7 @@
 									
 										{ 
 											"line" : "1|line 1",
-											"text" : "Anno a Christo nato M. DC. ",
+											"text" : "Anno à Christo nato M. DC. ",
 											"tags" : "CB|Choirbook Front Matter",
 											"loc" : "folio_tr|Title Page",
 											"inFront": "false"
@@ -68,9 +68,9 @@
 									
 										{ 
 											"line" : "no line info|no line info",
-											"text" : " ",
-											"tags" : "CB|Choirbook Front Matter Missa Elisabeth Zachariae",
-											"loc" : "folio_1r|1–86",
+											"text" : "",
+											"tags" : "CB|Choirbook Missa Elisabeth Zachariae",
+											"loc" : "folio_1r|1–85",
 											"inFront": "false"
 										},
 									 
@@ -78,7 +78,7 @@
 									"line" : "no line info|no line info", 
 									"text" : " ", 
 									"tags" : "CB|Choirbook Missa Elisabeth Zachariae", 
-									"loc" : "folio_1r|1–86",
+									"loc" : "folio_1r|1–85",
 									"inFront": "false" 
 								}, 
 							
@@ -129,15 +129,15 @@
 									"loc" : "folio_91r|91r",
 									"inFront": "false" 
 								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Missa Elisabeth Zachariae Missa Quae est ista", 
-									"loc" : "folio_92v|92v",
-									"inFront": "false" 
-								}, 
 							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Missa Quae est ista",
+											"loc" : "folio_93r|93r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -369,15 +369,15 @@
 									"loc" : "folio_121r|121r",
 									"inFront": "false" 
 								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Missa Quae est ista Missa Tu es pastor ovium", 
-									"loc" : "folio_122v|122v",
-									"inFront": "false" 
-								}, 
 							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Missa Tu es pastor ovium",
+											"loc" : "folio_123r|123r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -513,15 +513,15 @@
 									"loc" : "folio_139r|139r",
 									"inFront": "false" 
 								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Missa Tu es pastor ovium Missa Veni de Libano", 
-									"loc" : "folio_140v|140v",
-									"inFront": "false" 
-								}, 
 							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Missa Veni de Libano",
+											"loc" : "folio_141r|141r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -689,15 +689,15 @@
 									"loc" : "folio_161r|161r",
 									"inFront": "false" 
 								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Missa Veni de Libano Magnificat Primi toni", 
-									"loc" : "folio_162v|162v",
-									"inFront": "false" 
-								}, 
-							 
+							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Magnificat Primi toni",
+											"loc" : "folio_163r|163r",
+											"inFront": "false"
+										},
+									 
 								{ 
 									"line" : "no line info|no line info", 
 									"text" : " ", 
@@ -1009,23 +1009,55 @@
 									"loc" : "folio_170v|170v",
 									"inFront": "false" 
 								}, 
+							 
+								{ 
+									"line" : "no line info|no line info", 
+									"text" : " ", 
+									"tags" : "CB|Choirbook Magnificat Primi toni", 
+									"loc" : "folio_171r|171r",
+									"inFront": "false" 
+								}, 
+							 
+								{ 
+									"line" : "no line info|no line info", 
+									"text" : " ", 
+									"tags" : "CB|Choirbook Magnificat Primi toni", 
+									"loc" : "folio_172v|172v",
+									"inFront": "false" 
+								}, 
+							 
+								{ 
+									"line" : "no line info|no line info", 
+									"text" : " ", 
+									"tags" : "CB|Choirbook Magnificat Primi toni", 
+									"loc" : "folio_173r|173r",
+									"inFront": "false" 
+								}, 
 							
-									{
-									"line" : "|",
-									"text" : "",
-									"tags" : "1|Magnificat Primi toni",
-									"loc" : "folio_172v|172v",
-									"inFront": "false"
-									},
-								
-									{
-									"line" : "|",
-									"text" : "",
-									"tags" : "1|Magnificat Primi toni",
-									"loc" : "folio_172v|172v",
-									"inFront": "false"
-									},
-								
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Magnificat Primi toni Magnificat Secundi toni",
+											"loc" : "folio_175r|175r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Magnificat Secundi toni",
+											"loc" : "folio_175r|175r",
+											"inFront": "false"
+										},
+									 
+								{ 
+									"line" : "no line info|no line info", 
+									"text" : " ", 
+									"tags" : "CB|Choirbook Magnificat Secundi toni", 
+									"loc" : "folio_175r|175r",
+									"inFront": "false" 
+								}, 
+							
 										{ 
 											"line" : "1|line 1",
 											"text" : "Transcription goes here. ",
@@ -1105,15 +1137,15 @@
 									"loc" : "folio_185r|185r",
 									"inFront": "false" 
 								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Magnificat Secundi toni Magnificat Tertii toni", 
-									"loc" : "folio_186v|186v",
-									"inFront": "false" 
-								}, 
 							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Magnificat Tertii toni",
+											"loc" : "folio_187r|187r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1141,11 +1173,59 @@
 								{ 
 									"line" : "no line info|no line info", 
 									"text" : " ", 
-									"tags" : "CB|Choirbook Magnificat Tertii toni Magnificat Quarti toni", 
+									"tags" : "CB|Choirbook Magnificat Tertii toni", 
 									"loc" : "folio_190v|190v",
 									"inFront": "false" 
 								}, 
+							 
+								{ 
+									"line" : "no line info|no line info", 
+									"text" : " ", 
+									"tags" : "CB|Choirbook Magnificat Tertii toni", 
+									"loc" : "folio_191r|191r",
+									"inFront": "false" 
+								}, 
+							 
+								{ 
+									"line" : "no line info|no line info", 
+									"text" : " ", 
+									"tags" : "CB|Choirbook Magnificat Tertii toni", 
+									"loc" : "folio_192v|192v",
+									"inFront": "false" 
+								}, 
+							 
+								{ 
+									"line" : "no line info|no line info", 
+									"text" : " ", 
+									"tags" : "CB|Choirbook Magnificat Tertii toni", 
+									"loc" : "folio_193r|193r",
+									"inFront": "false" 
+								}, 
+							 
+								{ 
+									"line" : "no line info|no line info", 
+									"text" : " ", 
+									"tags" : "CB|Choirbook Magnificat Tertii toni", 
+									"loc" : "folio_194v|194v",
+									"inFront": "false" 
+								}, 
+							 
+								{ 
+									"line" : "no line info|no line info", 
+									"text" : " ", 
+									"tags" : "CB|Choirbook Magnificat Tertii toni", 
+									"loc" : "folio_195r|195r",
+									"inFront": "false" 
+								}, 
 							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Magnificat Quarti toni",
+											"loc" : "folio_197r|197r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1217,15 +1297,15 @@
 									"loc" : "folio_205r|205r",
 									"inFront": "false" 
 								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Magnificat Quarti toni Magnificat Quinti toni", 
-									"loc" : "folio_206v|206v",
-									"inFront": "false" 
-								}, 
 							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Magnificat Quinti toni",
+											"loc" : "folio_207r|207r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1313,15 +1393,15 @@
 									"loc" : "folio_217r|217r",
 									"inFront": "false" 
 								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Magnificat Quinti toni Magnificat Sexti toni", 
-									"loc" : "folio_218v|218v",
-									"inFront": "false" 
-								}, 
 							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Magnificat Sexti toni",
+											"loc" : "folio_219r|219r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1409,15 +1489,15 @@
 									"loc" : "folio_229r|229r",
 									"inFront": "false" 
 								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Magnificat Sexti toni Magnificat Septimi toni", 
-									"loc" : "folio_230v|230v",
-									"inFront": "false" 
-								}, 
 							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Magnificat Septimi toni",
+											"loc" : "folio_231r|231r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1489,15 +1569,15 @@
 									"loc" : "folio_239r|239r",
 									"inFront": "false" 
 								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Magnificat Septimi toni Magnificat Octavi toni", 
-									"loc" : "folio_240v|240v",
-									"inFront": "false" 
-								}, 
 							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Magnificat Octavi toni",
+											"loc" : "folio_241r|241r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1569,15 +1649,15 @@
 									"loc" : "folio_249r|249r",
 									"inFront": "false" 
 								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Magnificat Octavi toni Tribulationes cordis mea", 
-									"loc" : "folio_250v|250v",
-									"inFront": "false" 
-								}, 
 							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Tribulationes cordis mea",
+											"loc" : "folio_251r|251r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1601,15 +1681,15 @@
 									"loc" : "folio_253r|253r",
 									"inFront": "false" 
 								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Tribulationes cordis mea Hoc est praeceptum meum", 
-									"loc" : "folio_254v|254v",
-									"inFront": "false" 
-								}, 
 							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Hoc est praeceptum meum",
+											"loc" : "folio_255r|255r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1633,15 +1713,15 @@
 									"loc" : "folio_257r|257r",
 									"inFront": "false" 
 								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Hoc est praeceptum meum Iste Sanctus", 
-									"loc" : "folio_258v|258v",
-									"inFront": "false" 
-								}, 
 							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Iste Sanctus",
+											"loc" : "folio_259r|259r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1665,15 +1745,15 @@
 									"loc" : "folio_261r|261r",
 									"inFront": "false" 
 								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Iste Sanctus Ave sanctissima Maria", 
-									"loc" : "folio_262v|262v",
-									"inFront": "false" 
-								}, 
 							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Ave sanctissima Maria",
+											"loc" : "folio_263r|263r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1713,15 +1793,15 @@
 									"loc" : "folio_267r|267r",
 									"inFront": "false" 
 								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Ave sanctissima Maria Stabat mater", 
-									"loc" : "folio_268v|268v",
-									"inFront": "false" 
-								}, 
 							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Stabat mater",
+											"loc" : "folio_269r|269r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1745,15 +1825,15 @@
 									"loc" : "folio_271r|271r",
 									"inFront": "false" 
 								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Stabat mater O Ildefonse", 
-									"loc" : "folio_272v|272v",
-									"inFront": "false" 
-								}, 
 							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook O Ildefonse",
+											"loc" : "folio_273r|273r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1761,15 +1841,15 @@
 									"loc" : "folio_274v|274v",
 									"inFront": "false"
 									},
-								 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook O Ildefonse Gaudent in caelis", 
-									"loc" : "folio_274v|274v",
-									"inFront": "false" 
-								}, 
-							
+								
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Gaudent in caelis",
+											"loc" : "folio_275r|275r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1777,15 +1857,15 @@
 									"loc" : "folio_276v|276v",
 									"inFront": "false"
 									},
-								 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Gaudent in caelis Hic vir despiciens mundum", 
-									"loc" : "folio_276v|276v",
-									"inFront": "false" 
-								}, 
-							
+								
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Hic vir despiciens mundum",
+											"loc" : "folio_277r|277r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1793,15 +1873,15 @@
 									"loc" : "folio_278v|278v",
 									"inFront": "false"
 									},
-								 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Hic vir despiciens mundum O doctor optime", 
-									"loc" : "folio_278v|278v",
-									"inFront": "false" 
-								}, 
-							
+								
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook O doctor optime",
+											"loc" : "folio_279r|279r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1809,15 +1889,15 @@
 									"loc" : "folio_280v|280v",
 									"inFront": "false"
 									},
-								 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook O doctor optime Assumpsit Jesus Petrum", 
-									"loc" : "folio_280v|280v",
-									"inFront": "false" 
-								}, 
-							
+								
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Assumpsit Jesus Petrum",
+											"loc" : "folio_281r|281r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1825,15 +1905,15 @@
 									"loc" : "folio_282v|282v",
 									"inFront": "false"
 									},
-								 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Assumpsit Jesus Petrum Veni sponsa Christi", 
-									"loc" : "folio_282v|282v",
-									"inFront": "false" 
-								}, 
-							
+								
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Veni sponsa Christi",
+											"loc" : "folio_283r|283r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1841,15 +1921,15 @@
 									"loc" : "folio_284v|284v",
 									"inFront": "false"
 									},
-								 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Veni sponsa Christi Amavit eum Dominus", 
-									"loc" : "folio_284v|284v",
-									"inFront": "false" 
-								}, 
-							
+								
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Amavit eum Dominus",
+											"loc" : "folio_285r|285r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1857,15 +1937,15 @@
 									"loc" : "folio_286v|286v",
 									"inFront": "false"
 									},
-								 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Amavit eum Dominus Salve regina", 
-									"loc" : "folio_286v|286v",
-									"inFront": "false" 
-								}, 
-							
+								
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Salve regina",
+											"loc" : "folio_287r|287r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1905,15 +1985,15 @@
 									"loc" : "folio_291r|291r",
 									"inFront": "false" 
 								}, 
-							 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Salve regina Benedicamus Domino [1]", 
-									"loc" : "folio_292v|292v",
-									"inFront": "false" 
-								}, 
 							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Benedicamus Domino [1]",
+											"loc" : "folio_293r|293r",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
 									"text" : "Transcription goes here.",
@@ -1921,28 +2001,44 @@
 									"loc" : "folio_294v|294v",
 									"inFront": "false"
 									},
-								 
-								{ 
-									"line" : "no line info|no line info", 
-									"text" : " ", 
-									"tags" : "CB|Choirbook Benedicamus Domino [1] Benedicamus Domino [2]", 
-									"loc" : "folio_294v|294v",
-									"inFront": "false" 
-								}, 
-							
+								
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook Benedicamus Domino [2]",
+											"loc" : "folio_295r|295r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Transcription goes here. ",
+											"tags" : "CB|Choirbook Benedicamus Domino [2] ?Benedicamus Domino [3]",
+											"loc" : "folio_296v|296v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "CB|Choirbook ?Benedicamus Domino [3]",
+											"loc" : "folio_296v|296v",
+											"inFront": "false"
+										},
+									
 									{
 									"line" : "|",
-									"text" : "Transcription goes here.",
-									"tags" : "1|Benedicamus Domino [2]",
-									"loc" : "folio_296v|296v",
+									"text" : "Nothing is here yet",
+									"tags" : "1|?Benedicamus Domino [3]",
+									"loc" : "no_page_info|298v",
 									"inFront": "false"
 									},
 								
 									{
 									"line" : "|",
-									"text" : "Nothing is here yet",
-									"tags" : "1|Benedicamus Domino [3]",
-									"loc" : "folio_296v|296v",
+									"text" : "Text",
+									"tags" : "1|colophon",
+									"loc" : "no_page_info|300v",
 									"inFront": "false"
 									},
 								
