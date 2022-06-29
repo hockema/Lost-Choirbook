@@ -92,7 +92,7 @@
 	<!-- EN: On/Off <front> Information -->
 	<!-- IT: Attiva/Disattiva <front> Information -->
 	<!-- default: true() -->
-	<xsl:param name="frontInfo" select="false()"/>
+	<xsl:param name="frontInfo" select="true()"/>
 
 	<!-- EN: On/Off Manuscript Description -->
 	<!-- IT: Attiva/Disattiva Descrizione del manoscritto-->

@@ -148,164 +148,512 @@
             rend="visible" lry="1812" lrx="1315" uly="1722" ulx="123"/>
       </surface>
    </facsimile>
-   <text n="Choirbook" type="prose" xml:id="CB">
-      <front/>
-      <body>
-         <pb n="87r" xml:id="folio_87r"/>
-         <pb n="91r" xml:id="folio_91r"/>
-         <pb n="92v" xml:id="folio_92v"/>
-         <pb n="93r" xml:id="folio_93r"/>
-         <pb n="94v" xml:id="folio_94v"/>
-         <pb n="95r" xml:id="folio_95r"/>
-         <pb n="96v" xml:id="folio_96v"/>
-         <pb n="97r" xml:id="folio_97r"/>
-         <pb n="98v" xml:id="folio_98v"/>
-         <pb n="99r" xml:id="folio_99r"/>
-         <pb n="100v" xml:id="folio_100v"/>
-         <pb n="101r" xml:id="folio_101r"/>
-         <pb n="102v" xml:id="folio_102v"/>
-         <pb n="103r" xml:id="folio_103r"/>
-         <pb n="104v" xml:id="folio_104v"/>
-         <pb n="105r" xml:id="folio_105r"/>
-         <pb n="106v" xml:id="folio_106v"/>
-         <pb n="107r" xml:id="folio_107r"/>
-         <pb n="108v" xml:id="folio_108v"/>
-         <pb n="109r" xml:id="folio_109r"/>
-         <pb n="110v" xml:id="folio_110v"/>
-         <pb n="111r" xml:id="folio_111r"/>
-         <pb n="112v" xml:id="folio_112v"/>
-         <pb n="113r" xml:id="folio_113r"/>
-         <pb n="114v" xml:id="folio_114v"/>
-         <pb n="115r" xml:id="folio_115r"/>
-         <pb n="116v" xml:id="folio_116v"/>
-         <pb n="117r" xml:id="folio_117r"/>
-         <pb n="118v" xml:id="folio_118v"/>
-         <pb n="119r" xml:id="folio_119r"/>
-         <pb n="120v" xml:id="folio_120v"/>
-         <pb n="121r" xml:id="folio_121r"/>
-         <pb n="122v" xml:id="folio_122v"/>
-         <pb n="123r" xml:id="folio_123r"/>
-         <pb n="124v" xml:id="folio_124v"/>
-         <pb n="125r" xml:id="folio_125r"/>
-         <pb n="126v" xml:id="folio_126v"/>
-         <pb n="127r" xml:id="folio_127r"/>
-         <pb n="128v" xml:id="folio_128v"/>
-         <pb n="129r" xml:id="folio_129r"/>
-         <pb n="130v" xml:id="folio_130v"/>
-         <pb n="131r" xml:id="folio_131r"/>
-         <pb n="132v" xml:id="folio_132v"/>
-         <pb n="133r" xml:id="folio_133r"/>
-         <pb n="134v" xml:id="folio_134v"/>
-         <pb n="135r" xml:id="folio_135r"/>
-         <pb n="135v" xml:id="folio_136v"/>
-         <pb n="137r" xml:id="folio_137r"/>
-         <pb n="138v" xml:id="folio_138v"/>
-         <pb n="139r" xml:id="folio_139r"/>
-         <pb n="140v" xml:id="folio_140v"/>
-         <pb n="141r" xml:id="folio_141r"/>
-         <pb n="142v" xml:id="folio_142v"/>
-         <pb n="166v" xml:id="folio_166v"/>
-         <p>
-            <lb rend="center" facs="#LCB_166v_header" xml:id="LCB_166v_headtxt"/>PRIMI TON 1. ilij.
-            vocum. <lb facs="#LCB_166v_box_01" xml:id="LCB_166v_boxtxt_01"/>SVPERIVS.<lb
-               facs="#LCB_166v_line_01" n="1" xml:id="LCB_166v_lb_01"/><hi>Q</hi>Via Respe xit,
-               Respexit<note>This is a generic, unnumbered note.</note> hu mi li ta- <lb
-               facs="#LCB_166v_line_02" xml:id="LCB_166v_lb_02" n="2"/>te m an cil lae su ae, an cil
-            lae su ae <lb facs="#LCB_166v_line_03" xml:id="LCB_166v_lb_03" n="3"/>an cil lae, an cil
-            lae su ae. Ec ce<note n="1" type="comment">You can differentiate your notes as
-               comments</note> eni m ex hoc Be a tam me dicent. Omnes ge- <lb
+   
+<text n="Choirbook" type="prose" xml:id="CB">
+   
+  
+   <group>
+      
+      <text n="Front Matter">
+         <front>
+            <div>
+               <p>This choir book belonging to Diego de Bruceña is ...</p>
+            </div>
+         </front>
+         <body>
+            <pb n="Cover" xml:id="folio_front"/>
+            <pb n="Title Page" xml:id="folio_tr"/>
+               <p> 
+                  <lb type="Title" rend="center" n="1"/>SVPERIORVM
+                  <lb type="Title" rend="center" n="1"/>SALMAT
+                  <lb type="Title" rend="center" n="1"/>Ex officina typographica Antoni j V
+                  <lb type="Title" rend="center" n="1"/>Anno a Christo nato M. DC.
+               </p>
+            <pb n="000" xml:id="folio_tv"/>
+               <p><lb/>Pages are missing throughout.</p>
+         </body>
+      </text>
+
+      <text n="Missa Elisabeth Zachariae">
+         <front>
+            <div>
+               <p>92 MISSA ELISABETH ZACHARIAE. iiij vocum. // DIDACVS DE BRUCENA. 93. Kyrie, Gloria, and Credo: missing.
+               Sanctus ([86]-[89]): Superius and Tenor missing; small losses from Altus and Bassus; Osanna in 3/2
+               <lb/>
+               The upper outside quadrant of pp. 87-88 survives, detatched from the book. Most of the Altus and some of the Bassus
+               is preserved on p. 87 while most of the Superius and some of the Tenor is preserved on p. 88. A small fragment of the outer side
+               of pp. [89]-[90] survives, detatched from the binding. It preserves some notes from the BAssus of the Sanctus and the
+               Tenor of the Benedictus.
+               <lb/>
+               Benedictus ([90]-91): 3vv (SAT), Altus complete; Superius missing, significant losses from Tenor.
+               <lb/>
+               Agnus (92-3): Superius, Altus, Tenor complete; Bassus lacks most of final stave.
+               <lb/>
+               Source motet: Francisco Guerrero, Elisabeth Zacharaiae (secunda pars: Dominus ab utero) 5vv (SSTTB) from Mottetta
+               (Venice: Filio Antonii Gardani, 1570) [RISM G4871], no. 48 and Motecta (Venice: Giacomo Vincenti, 1597)
+               [RISM G4877], no. 47.</p>
+            </div>
+         </front>
+         <body>
+            <pb n="87r" xml:id="folio_87r"/>
+            <p>Transcription goes here.</p>
+            <pb n="91r" xml:id="folio_91r"/>
+            <pb n="92v" xml:id="folio_92v"/>
+            <pb n="93r" xml:id="folio_93r"/>
+         </body>
+      </text>
+      
+      <text n="Missa Quae est ista">
+         <body>
+            <pb n="94v" xml:id="folio_94v"/>
+            <p>Transcription goes here.</p>
+            <pb n="95r" xml:id="folio_95r"/>
+            <pb n="96v" xml:id="folio_96v"/>
+            <pb n="97r" xml:id="folio_97r"/>
+            <pb n="98v" xml:id="folio_98v"/>
+            <pb n="99r" xml:id="folio_99r"/>
+            <pb n="100v" xml:id="folio_100v"/>
+            <pb n="101r" xml:id="folio_101r"/>
+            <pb n="102v" xml:id="folio_102v"/>
+            <pb n="103r" xml:id="folio_103r"/>
+            <pb n="104v" xml:id="folio_104v"/>
+            <pb n="105r" xml:id="folio_105r"/>
+            <pb n="106v" xml:id="folio_106v"/>
+            <pb n="107r" xml:id="folio_107r"/>
+            <pb n="108v" xml:id="folio_108v"/>
+            <pb n="109r" xml:id="folio_109r"/>
+            <pb n="110v" xml:id="folio_110v"/>
+            <pb n="111r" xml:id="folio_111r"/>
+            <pb n="112v" xml:id="folio_112v"/>
+            <pb n="113r" xml:id="folio_113r"/>
+            <pb n="114v" xml:id="folio_114v"/>
+            <pb n="115r" xml:id="folio_115r"/>
+            <pb n="116v" xml:id="folio_116v"/>
+            <pb n="117r" xml:id="folio_117r"/>
+            <pb n="118v" xml:id="folio_118v"/>
+            <pb n="119r" xml:id="folio_119r"/>
+            <pb n="120v" xml:id="folio_120v"/>
+            <pb n="121r" xml:id="folio_121r"/>
+            <pb n="122v" xml:id="folio_122v"/>
+            <pb n="123r" xml:id="folio_123r"/>
+         </body>
+      </text>
+      
+      <text n="Missa Tu es pastor ovium">
+         <body>
+            <pb n="124v" xml:id="folio_124v"/>
+            <p>Transcription goes here.</p>
+            <pb n="125r" xml:id="folio_125r"/>
+            <pb n="126v" xml:id="folio_126v"/>
+            <pb n="127r" xml:id="folio_127r"/>
+            <pb n="128v" xml:id="folio_128v"/>
+            <pb n="129r" xml:id="folio_129r"/>
+            <pb n="130v" xml:id="folio_130v"/>
+            <pb n="131r" xml:id="folio_131r"/>
+            <pb n="132v" xml:id="folio_132v"/>
+            <pb n="133r" xml:id="folio_133r"/>
+            <pb n="134v" xml:id="folio_134v"/>
+            <pb n="135r" xml:id="folio_135r"/>
+            <pb n="135v" xml:id="folio_136v"/>
+            <pb n="137r" xml:id="folio_137r"/>
+            <pb n="138v" xml:id="folio_138v"/>
+            <pb n="139r" xml:id="folio_139r"/>
+            <pb n="140v" xml:id="folio_140v"/>
+            <pb n="141r" xml:id="folio_141r"/>
+         </body>
+      </text>
+      
+      <text n="Missa Veni de Libano">
+         <body>
+            <pb n="142v" xml:id="folio_142v"/>
+            <p>Transcription goes here.</p>
+            <pb n="143r" xml:id="folio_143r"/>
+            <pb n="144v" xml:id="folio_144v"/>
+            <pb n="145r" xml:id="folio_145r"/>
+            <pb n="146v" xml:id="folio_146v"/>
+            <pb n="147r" xml:id="folio_147r"/>
+            <pb n="148v" xml:id="folio_148v"/>
+            <pb n="149r" xml:id="folio_149r"/>
+            <pb n="150v" xml:id="folio_150v"/>
+            <pb n="151r" xml:id="folio_151r"/>
+            <pb n="152v" xml:id="folio_152v"/>
+            <pb n="153r" xml:id="folio_153r"/>
+            <pb n="154v" xml:id="folio_154v"/>
+            <pb n="155r" xml:id="folio_155r"/>
+            <pb n="156v" xml:id="folio_156v"/>
+            <pb n="157r" xml:id="folio_157r"/>
+            <pb n="158v" xml:id="folio_158v"/>
+            <pb n="159r" xml:id="folio_159r"/>
+            <pb n="160v" xml:id="folio_160v"/>
+            <pb n="161r" xml:id="folio_161r"/>
+            <pb n="162v" xml:id="folio_162v"/>
+            <pb n="163r" xml:id="folio_163r"/>
+         </body>
+      </text>
+      
+      <text n="Magnificat Primi toni">
+         <body>
+            <pb n="164v" xml:id="folio_164v"/>
+            <pb n="165r" xml:id="folio_165r"/>
+            <pb n="166v" xml:id="folio_166v"/>
+            <p>
+         <lb rend="center" facs="#LCB_166v_header" xml:id="LCB_166v_headtxt"/>PRIMI TON 1. ilij.
+         vocum. <lb facs="#LCB_166v_box_01" xml:id="LCB_166v_boxtxt_01"/>SVPERIVS.<lb
+            facs="#LCB_166v_line_01" n="1" xml:id="LCB_166v_lb_01"/><hi>Q</hi>Via Respe xit,
+         Respexit<note>This is a generic, unnumbered note.</note> hu mi li ta- <lb
+            facs="#LCB_166v_line_02" xml:id="LCB_166v_lb_02" n="2"/>te m an cil lae su ae, an cil
+         lae su ae <lb facs="#LCB_166v_line_03" xml:id="LCB_166v_lb_03" n="3"/>an cil lae, an cil
+         lae su ae. Ec ce<note n="1" type="comment">You can differentiate your notes as
+            comments</note> eni m ex hoc Be a tam me dicent. Omnes ge- <lb
                facs="#LCB_166v_line_04" xml:id="LCB_166v_lb_04" n="4"/>ne ra ti o nes, li. Genera-
-               <lb facs="#LCB_166v_line_05" xml:id="LCB_166v_lb_05" n="5"/>ti o nes, ii. Omnes ge ne
-            ra tio nes.<note n="a" type="critical">Or they can be critical notes.</note>
-            <lb facs="#LCB_166v_blankline_01" xml:id="LCB_166v_blanktext_01" n="6"/><!-- facs="#LCB_166v_line_blankline_01" xml:id="LCB_166v_lb_06" -->
-            <lb facs="#LCB_166v_box_02" xml:id="LCB_166v_boxtxt_02"/><choice>
-               <orig>Tenor</orig>
-               <reg>You can hover over words too.</reg>
-            </choice>. <lb facs="#LCB_166v_line_07" xml:id="LCB_166v_lb_07" n="7"/><hi>Q</hi>Via Res
-            pe xit hu mi li ta tem, ancil lae su ae, an cil lae <lb facs="#LCB_166v_line_08"
-               xml:id="LCB_166v_lb_08" n="8"/>su ae. Ec ce eni m ex hoc Be a tam medicent. Omnes<lb
+         <lb facs="#LCB_166v_line_05" xml:id="LCB_166v_lb_05" n="5"/>ti o nes, ii. Omnes ge ne
+         ra tio nes.<note n="a" type="critical">Or they can be critical notes.</note>
+         <lb facs="#LCB_166v_blankline_01" xml:id="LCB_166v_blanktext_01" n="6"/><!-- facs="#LCB_166v_line_blankline_01" xml:id="LCB_166v_lb_06" -->
+         <lb facs="#LCB_166v_box_02" xml:id="LCB_166v_boxtxt_02"/><choice>
+            <orig>Tenor</orig>
+            <reg>You can hover over words too.</reg>
+         </choice>. <lb facs="#LCB_166v_line_07" xml:id="LCB_166v_lb_07" n="7"/><hi>Q</hi>Via Res
+         pe xit hu mi li ta tem, ancil lae su ae, an cil lae <lb facs="#LCB_166v_line_08"
+            xml:id="LCB_166v_lb_08" n="8"/>su ae. Ec ce eni m ex hoc Be a tam medicent. Omnes<lb
                facs="#LCB_166v_line_09" xml:id="LCB_166v_lb_09" n="9"/>gene ra ti o nes. Omnes ge ne
-            ra ti o nes. <lb facs="#LCB_166v_blankline_02" xml:id="LCB_166v_blanktext_02" n="10"/>
-            <lb facs="#LCB_166v_blankline_03" xml:id="LCB_166v_blanktext_03" n="11"/>
-            <lb facs="#LCB_166v_blankline_04" xml:id="LCB_166v_blanktext_04" n="12"/>
-         </p>
-         <pb n="167r" xml:id="folio_167r"/>
-         <p>
-            <lb rend="center" facs="#LCB_167r_header" xml:id="LCB_167r_headtxt"/>DIDACVS DE BRVCEÑA.
-               <lb facs="LCB_167r_box_01" xml:id="LCB_167r_boxtxt_01"/>ALTVS <lb
-               facs="#LCB_167r_line_01" xml:id="LCB_167r_lb_01" n="1"/><hi>Q</hi>VIA Respe xit,
-            Respe xit hu- <lb facs="#LCB_167r_line_02" xml:id="LCB_167r_lb_02" n="2"/>mi li ta te m
-            an cil lae su ae, <lb facs="LCB_167r_line_03" xml:id="LCB_167r_lb_03" n="3"/>Ec ce eni m
-            ex hoc be a tam medi cent. Omnes ge ne ra ti o nes Om- <lb facs="#LCB_167r_line_04"
-               xml:id="LCB_167r_lb_04" n="4"/>nes ge ne ra ti o nes. ge ne ra ti o nes. Omnes ge ne
-            ra ti o nes. ge ne ra- <lb facs="#LCB_167r_line_05" xml:id="LCB_167r_lb_05" n="5"/>ti o
-            nes, ij. <lb facs="#LCB_167r_blankline_01" xml:id="LCB_167r_blanktext_01" n="6"/>
-            <lb facs="#LCB_167r_box_02" xml:id="LCB_167r_boxtxt_02"/>BASVS <lb
-               facs="#LCB_167r_line_06" xml:id="LCB_167r_lb_06" n="7"/><hi>Q</hi>Via Re s pe xit
-            Respe xit humi- <lb facs="#LCB_167r_line_07" xml:id="LCB_167r_lb_07" n="8"/>li ta tem an
-            cil lae su ae, ij. <lb facs="#LCB_167r_line_08" xml:id="LCB_167r_lb_08" n="9"/>Ecce eni
-            m ex hoc Beata medicent. Omnes gene ra ti o nes. ij. <lb facs="#LCB_167r_line_09"
-               xml:id="LCB_167r_lb_09" n="10"/>ge ne ra ti o nes. Om nes ge nerati o nes. <lb
+         ra ti o nes. <lb facs="#LCB_166v_blankline_02" xml:id="LCB_166v_blanktext_02" n="10"/>
+         <lb facs="#LCB_166v_blankline_03" xml:id="LCB_166v_blanktext_03" n="11"/>
+         <lb facs="#LCB_166v_blankline_04" xml:id="LCB_166v_blanktext_04" n="12"/>
+      </p>
+            <pb n="167r" xml:id="folio_167r"/>
+            <p>
+         <lb rend="center" facs="#LCB_167r_header" xml:id="LCB_167r_headtxt"/>DIDACVS DE BRVCEÑA.
+         <lb facs="LCB_167r_box_01" xml:id="LCB_167r_boxtxt_01"/>ALTVS <lb
+            facs="#LCB_167r_line_01" xml:id="LCB_167r_lb_01" n="1"/><hi>Q</hi>VIA Respe xit,
+         Respe xit hu- <lb facs="#LCB_167r_line_02" xml:id="LCB_167r_lb_02" n="2"/>mi li ta te m
+         an cil lae su ae, <lb facs="LCB_167r_line_03" xml:id="LCB_167r_lb_03" n="3"/>Ec ce eni m
+         ex hoc be a tam medi cent. Omnes ge ne ra ti o nes Om- <lb facs="#LCB_167r_line_04"
+            xml:id="LCB_167r_lb_04" n="4"/>nes ge ne ra ti o nes. ge ne ra ti o nes. Omnes ge ne
+         ra ti o nes. ge ne ra- <lb facs="#LCB_167r_line_05" xml:id="LCB_167r_lb_05" n="5"/>ti o
+         nes, ij. <lb facs="#LCB_167r_blankline_01" xml:id="LCB_167r_blanktext_01" n="6"/>
+         <lb facs="#LCB_167r_box_02" xml:id="LCB_167r_boxtxt_02"/>BASVS <lb
+            facs="#LCB_167r_line_06" xml:id="LCB_167r_lb_06" n="7"/><hi>Q</hi>Via Re s pe xit
+         Respe xit humi- <lb facs="#LCB_167r_line_07" xml:id="LCB_167r_lb_07" n="8"/>li ta tem an
+         cil lae su ae, ij. <lb facs="#LCB_167r_line_08" xml:id="LCB_167r_lb_08" n="9"/>Ecce eni
+         m ex hoc Beata medicent. Omnes gene ra ti o nes. ij. <lb facs="#LCB_167r_line_09"
+            xml:id="LCB_167r_lb_09" n="10"/>ge ne ra ti o nes. Om nes ge nerati o nes. <lb
                facs="#LCB_167r_blankline_02" xml:id="LCB_167r_blanktext_02" n="11"/>
-            <lb facs="#LCB_167r_blankline_03" xml:id="LCB_167r_blanktext_03" n="12"/>
-         </p>
-         <pb n="168v" xml:id="folio_168v"/>
-         <p>
-            <lb rend="center" facs="#LCB_168v_header" xml:id="LCB_168v_headtxt"/>PRIMI TON I. ilij.
-            vocum. <lb facs="#LCB_168v_box_01" xml:id="LCB_168v_boxtxt_01"/>SVPERIVS. <hi>E</hi>
-            <lb facs="#LCB_168v_line_01" xml:id="LCB_168v_lb_01" n="1"/>T mi se ri cordi a e <lb
-               facs="#LCB_168v_line_02" xml:id="LCB_168v_lb_02" n="2"/>ius. Et mise ri cor di a e
-            ius, a- <lb facs="#LCB_168v_line_03" xml:id="LCB_168v_lb_03" n="3"/>proge ni e, in pro
-            ge ni es, ti men ti bus e- <lb facs="#LCB_168v_line_04" xml:id="LCB_168v_lb_04" n="4"
-            />um, ij. ij. <lb facs="#LCB_168v_lineblank_01" xml:id="LCB_168v_blanktxt_01" n="5"/>
-            <lb facs="#LCB_168v_lineblank_02" xml:id="LCB_168v_blanktxt_02" n="6"/>
-            <lb facs="#LCB_168v_box_02" xml:id="LCB_168v_boxtxt_02"/>TENOR. <hi>E</hi>
-            <lb facs="#LCB_168v_line_05" xml:id="LCB_168v_lb_05" n="7"/>T mi se ri cor di a e ius, e
-            ius, &amp; mi- <lb facs="#LCB_168v_line_06" xml:id="LCB_168v_lb_06" n="8"/>se ri cordi a
-            e ius, ij. a pro ge ni e in <lb facs="#LCB_168v_line_07" xml:id="LCB_168v_lb_07" n="9"
-            />pro ge ni es in pro ge ni es ti menti bus e um, ij. <lb facs="#LCB_168v_line_08"
-               xml:id="LCB_168v_lb_08" n="10"/>ij. ij. <lb facs="#LCB_168v_lineblank_03"
+         <lb facs="#LCB_167r_blankline_03" xml:id="LCB_167r_blanktext_03" n="12"/>
+      </p>
+            <pb n="168v" xml:id="folio_168v"/>
+            <p>
+         <lb rend="center" facs="#LCB_168v_header" xml:id="LCB_168v_headtxt"/>PRIMI TON I. ilij.
+         vocum. <lb facs="#LCB_168v_box_01" xml:id="LCB_168v_boxtxt_01"/>SVPERIVS. <hi>E</hi>
+         <lb facs="#LCB_168v_line_01" xml:id="LCB_168v_lb_01" n="1"/>T mi se ri cordi a e <lb
+            facs="#LCB_168v_line_02" xml:id="LCB_168v_lb_02" n="2"/>ius. Et mise ri cor di a e
+         ius, a- <lb facs="#LCB_168v_line_03" xml:id="LCB_168v_lb_03" n="3"/>proge ni e, in pro
+         ge ni es, ti men ti bus e- <lb facs="#LCB_168v_line_04" xml:id="LCB_168v_lb_04" n="4"
+         />um, ij. ij. <lb facs="#LCB_168v_lineblank_01" xml:id="LCB_168v_blanktxt_01" n="5"/>
+         <lb facs="#LCB_168v_lineblank_02" xml:id="LCB_168v_blanktxt_02" n="6"/>
+         <lb facs="#LCB_168v_box_02" xml:id="LCB_168v_boxtxt_02"/>TENOR. <hi>E</hi>
+         <lb facs="#LCB_168v_line_05" xml:id="LCB_168v_lb_05" n="7"/>T mi se ri cor di a e ius, e
+         ius, &amp; mi- <lb facs="#LCB_168v_line_06" xml:id="LCB_168v_lb_06" n="8"/>se ri cordi a
+         e ius, ij. a pro ge ni e in <lb facs="#LCB_168v_line_07" xml:id="LCB_168v_lb_07" n="9"
+         />pro ge ni es in pro ge ni es ti menti bus e um, ij. <lb facs="#LCB_168v_line_08"
+            xml:id="LCB_168v_lb_08" n="10"/>ij. ij. <lb facs="#LCB_168v_lineblank_03"
                xml:id="LCB_168v_blanktxt_03" n="11"/>
-            <lb facs="#LCB_168v_lineblank_04" xml:id="LCB_168v_blanktxt_04" n="11"/>
-         </p>
-         <pb n="169r" xml:id="folio_169r"/>
-         <pb n="170v" xml:id="folio_170v"/>
-         <pb n="171r" xml:id="folio_171r"/>
-         <pb n="172v" xml:id="folio_172v"/>
-         <!-- <pb n="173r" xml:id="folio_173r"/>
-         <pb n="174v" xml:id="folio_174v"/>
-         <pb n="175r" xml:id="folio_175r"/>
-         <pb n="176v" xml:id="folio_176v"/> -->
-         <pb n="177r" xml:id="folio_177r"/>
-         <pb n="178v" xml:id="folio_178v"/>
-         <pb n="179r" xml:id="folio_179r"/>
-         <pb n="180v" xml:id="folio_180v"/>
-         <pb n="181r" xml:id="folio_181r"/>
-         <pb n="182v" xml:id="folio_182v"/>
-         <pb n="183r" xml:id="folio_183r"/>
-         <pb n="184v" xml:id="folio_184v"/>
-         <pb n="185r" xml:id="folio_185r"/>
-         <pb n="186v" xml:id="folio_186v"/>
-         <pb n="187r" xml:id="folio_187r"/>
-         <pb n="188v" xml:id="folio_188v"/>
-         <pb n="189r" xml:id="folio_189r"/>
-      </body>
-      <back>
-         <div type="hotspot">
-            <div facs="#LCB_166v_HS_01" xml:id="LCB_166v_hotspot_01">
-               <p>The ornamented 'Q' is the first word of the hymn, 'Quia.' Each section of the
-                  choir in the book begins with the same ornamented letter.</p>
-               <figure>
-                  <graphic url="CB_166v_HS_01.jpg"/>
-               </figure>
+         <lb facs="#LCB_168v_lineblank_04" xml:id="LCB_168v_blanktxt_04" n="11"/>
+      </p>
+            <pb n="169r" xml:id="folio_169r"/>
+            <pb n="170v" xml:id="folio_170v"/>
+            <pb n="171r" xml:id="folio_171r"/>
+            <pb n="172v" xml:id="folio_172v"/>
+            <!--<pb n="173r" xml:id="folio_173r"/>
+               <pb n="174v" xml:id="folio_174v"/>
+               <pb n="175r" xml:id="folio_175r"/> -->
+         </body>
+         <back>
+            <div type="hotspot">
+               <div facs="#LCB_166v_HS_01" xml:id="LCB_166v_hotspot_01">
+                  <p>The ornamented 'Q' is the first word of the hymn, 'Quia.' Each section of the
+                     choir in the book begins with the same ornamented letter.</p>
+                  <figure>
+                     <graphic url="CB_166v_HS_01.jpg"/>
+                  </figure>
+               </div>
+               <div facs="#LCB_167r_HS_01" xml:id="LCB_167r_hotspot_01">
+                  <p>You can comment on text that wasn't transcribed via hotspots.</p>
+                  <figure>
+                     <graphic url="CB_167r_HS_01.jpg"/>
+                  </figure>
+               </div>
             </div>
-            <div facs="#LCB_167r_HS_01" xml:id="LCB_167r_hotspot_01">
-               <p>You can comment on text that wasn't transcribed via hotspots.</p>
-               <figure>
-                  <graphic url="CB_167r_HS_01.jpg"/>
-               </figure>
-            </div>
-         </div>
-      </back>
-   </text>
+         </back>
+      </text>
+      
+      <text n="Magnificat Secundi toni">
+         <body>
+            <!-- <pb n="176v" xml:id="folio_176v"/>-->
+            <pb n="177r" xml:id="folio_177r"/>
+            <p>
+               <lb n="1" xml:id="LCB_177r_lb01"/>Transcription goes here.
+            </p>
+            <pb n="178v" xml:id="folio_178v"/>
+            <pb n="179r" xml:id="folio_179r"/>
+            <pb n="180v" xml:id="folio_180v"/>
+            <pb n="181r" xml:id="folio_181r"/>
+            <pb n="182v" xml:id="folio_182v"/>
+            <pb n="183r" xml:id="folio_183r"/>
+            <pb n="184v" xml:id="folio_184v"/>
+            <pb n="185r" xml:id="folio_185r"/>
+            <pb n="186v" xml:id="folio_186v"/>
+            <pb n="187r" xml:id="folio_187r"/>
+         </body>
+      </text>
+      
+      <text n="Magnificat Tertii toni">
+         <body>
+            <pb n="188v" xml:id="folio_188v"/>
+            <p>Transcription goes here.</p>
+            <pb n="189r" xml:id="folio_189r"/>
+            <pb n="190v" xml:id="folio_190v"/>
+            <pb n="197r" xml:id="folio_197r"/>
+         </body>
+      </text>
+      
+      <text n="Magnificat Quarti toni">
+         <body>
+            <pb n="198v" xml:id="folio_198v"/>
+            <p>Transcription goes here.</p>
+            <pb n="199r" xml:id="folio_199r"/>
+            <pb n="200v" xml:id="folio_200v"/>
+            <pb n="201r" xml:id="folio_201r"/>
+            <pb n="202v" xml:id="folio_202v"/>
+            <pb n="203r" xml:id="folio_203r"/>
+            <pb n="204v" xml:id="folio_204v"/>
+            <pb n="205r" xml:id="folio_205r"/>
+            <pb n="206v" xml:id="folio_206v"/>
+            <pb n="207r" xml:id="folio_207r"/>
+         </body>
+      </text>
+      
+      <text n="Magnificat Quinti toni">
+         <body>
+            <pb n="208v" xml:id="folio_208v"/>
+            <p>Transcription goes here.</p>
+            <pb n="209r" xml:id="folio_209r"/>
+            <pb n="210v" xml:id="folio_210v"/>
+            <pb n="211r" xml:id="folio_211r"/>
+            <pb n="212v" xml:id="folio_212v"/>
+            <pb n="213r" xml:id="folio_213r"/>
+            <pb n="214v" xml:id="folio_214v"/>
+            <pb n="215r" xml:id="folio_215r"/>
+            <pb n="216v" xml:id="folio_216v"/>
+            <pb n="217r" xml:id="folio_217r"/>
+            <pb n="218v" xml:id="folio_218v"/>
+            <pb n="219r" xml:id="folio_219r"/>
+         </body>
+      </text>
+      
+      <text n="Magnificat Sexti toni">
+         <body>
+            <pb n="220v" xml:id="folio_220v"/>
+            <p>Transcription goes here.</p>
+            <pb n="221r" xml:id="folio_221r"/>
+            <pb n="222v" xml:id="folio_222v"/>
+            <pb n="223r" xml:id="folio_223r"/>
+            <pb n="224v" xml:id="folio_224v"/>
+            <pb n="225r" xml:id="folio_225r"/>
+            <pb n="226v" xml:id="folio_226v"/>
+            <pb n="227r" xml:id="folio_227r"/>
+            <pb n="228v" xml:id="folio_228v"/>
+            <pb n="229r" xml:id="folio_229r"/>
+            <pb n="230v" xml:id="folio_230v"/>
+            <pb n="231r" xml:id="folio_231r"/>
+         </body>
+      </text>
+      
+      <text n="Magnificat Septimi toni">
+         <body>
+            <pb n="232v" xml:id="folio_232v"/>
+            <p>Transcription goes here.</p>
+            <pb n="233r" xml:id="folio_233r"/>
+            <pb n="234v" xml:id="folio_234v"/>
+            <pb n="235r" xml:id="folio_235r"/>
+            <pb n="235v" xml:id="folio_236v"/>
+            <pb n="237r" xml:id="folio_237r"/>
+            <pb n="238v" xml:id="folio_238v"/>
+            <pb n="239r" xml:id="folio_239r"/>
+            <pb n="240v" xml:id="folio_240v"/>
+            <pb n="241r" xml:id="folio_241r"/>
+         </body>
+      </text>
+      
+      <text n="Magnificat Octavi toni">
+         <body>
+            <pb n="242v" xml:id="folio_242v"/>
+            <p>Transcription goes here.</p>
+            <pb n="243r" xml:id="folio_243r"/>
+            <pb n="244v" xml:id="folio_244v"/>
+            <pb n="245r" xml:id="folio_245r"/>
+            <pb n="246v" xml:id="folio_246v"/>
+            <pb n="247r" xml:id="folio_247r"/>
+            <pb n="248v" xml:id="folio_248v"/>
+            <pb n="249r" xml:id="folio_249r"/>
+            <pb n="250v" xml:id="folio_250v"/>
+            <pb n="251r" xml:id="folio_251r"/>
+         </body>
+      </text>
+      
+      <text n="Tribulationes cordis mea">
+         <body>
+            <pb n="252v" xml:id="folio_252v"/>
+            <p>Transcription goes here.</p>
+            <pb n="253r" xml:id="folio_253r"/>
+            <pb n="254v" xml:id="folio_254v"/>
+            <pb n="255r" xml:id="folio_255r"/>
+         </body>
+      </text>
+      
+      <text n="Hoc est praeceptum meum">
+         <body>
+            <pb n="256v" xml:id="folio_256v"/>
+            <p>Transcription goes here.</p>
+            <pb n="257r" xml:id="folio_257r"/>
+            <pb n="258v" xml:id="folio_258v"/>
+            <pb n="259r" xml:id="folio_259r"/>
+         </body>
+      </text>
+      
+      <text n="Iste Sanctus">
+         <body>
+            <pb n="260v" xml:id="folio_260v"/>
+            <p>Transcription goes here.</p>
+            <pb n="261r" xml:id="folio_261r"/>
+            <pb n="262v" xml:id="folio_262v"/>
+            <pb n="263r" xml:id="folio_263r"/>
+         </body>
+      </text>
+      
+      <text n="Ave sanctissima Maria">
+         <body>
+            <pb n="264v" xml:id="folio_264v"/>
+            <p>Transcription goes here.</p>
+            <pb n="265r" xml:id="folio_265r"/>
+            <pb n="266v" xml:id="folio_266v"/>
+            <pb n="267r" xml:id="folio_267r"/>
+            <pb n="268v" xml:id="folio_268v"/>
+            <pb n="269r" xml:id="folio_269r"/>
+         </body>
+      </text>
+      
+      <text n="Stabat mater">
+         <body>
+            <pb n="270v" xml:id="folio_270v"/>
+            <p>Transcription goes here.</p>
+            <pb n="271r" xml:id="folio_271r"/>
+            <pb n="272v" xml:id="folio_272v"/>
+            <pb n="273r" xml:id="folio_273r"/>
+         </body>
+      </text>
+      
+      <text n="O Ildefonse">
+         <body>
+            <pb n="274v" xml:id="folio_274v"/>
+            <p>Transcription goes here.</p>
+            <pb n="275r" xml:id="folio_275r"/>
+         </body>
+      </text>
+      
+      <text n="Gaudent in caelis">
+         <body>
+            <pb n="276v" xml:id="folio_276v"/>
+            <p>Transcription goes here.</p>
+            <pb n="277r" xml:id="folio_277r"/>
+         </body>
+      </text>
+      
+      <text n="Hic vir despiciens mundum">
+         <body>
+            <pb n="278v" xml:id="folio_278v"/>
+            <p>Transcription goes here.</p>
+            <pb n="279r" xml:id="folio_279r"/>
+         </body>
+      </text>
+      
+      <text n="O doctor optime">
+         <body>
+            <pb n="280v" xml:id="folio_280v"/>
+            <p>Transcription goes here.</p>
+            <pb n="281r" xml:id="folio_281r"/>
+         </body>
+      </text>
+      
+      <text n="Assumpsit Jesus Petrum">
+         <body>
+            <pb n="282v" xml:id="folio_282v"/>
+            <p>Transcription goes here.</p>
+            <pb n="283r" xml:id="folio_283r"/>
+         </body>
+      </text>
+      
+      <text n="Veni sponsa Christi">
+         <body>
+            <pb n="284v" xml:id="folio_284v"/>
+            <p>Transcription goes here.</p>
+            <pb n="285r" xml:id="folio_285r"/>
+         </body>
+      </text>
+      
+      <text n="Amavit eum Dominus">
+         <body>
+            <pb n="286v" xml:id="folio_286v"/>
+            <p>Transcription goes here.</p>
+            <pb n="287r" xml:id="folio_287r"/>
+         </body>
+      </text>
+      
+      <text n="Salve regina">
+         <body>
+            <pb n="288v" xml:id="folio_288v"/>
+            <p>Transcription goes here.</p>
+            <pb n="289r" xml:id="folio_289r"/>
+            <pb n="290v" xml:id="folio_290v"/>
+            <pb n="291r" xml:id="folio_291r"/>
+            <pb n="292v" xml:id="folio_292v"/>
+            <pb n="293r" xml:id="folio_293r"/>
+         </body>
+      </text>
+      
+      <text n="Benedicamus Domino [1]">
+         <body>
+            <pb n="294v" xml:id="folio_294v"/>
+            <p>Transcription goes here.</p>
+            <pb n="295r" xml:id="folio_295r"/>
+         </body>
+      </text>
+      
+      <text n="Benedicamus Domino [2]">
+         <body>
+            <pb n="296v" xml:id="folio_296v"/>
+            <p>Transcription goes here.</p>
+         </body>
+      </text>
+      
+      <text n="Benedicamus Domino [3]">
+         <body>
+            <p>Nothing is here yet</p>
+         </body>
+      </text>
+      
+      <text n="Back Cover">
+         <body>
+            <pb n="301r" xml:id="folio_301r"/>
+            <p>Transcription goes here.</p>
+            <pb n="Back Cover" xml:id="folio_back"/>
+         </body>
+      </text>
+   
+   </group>
+   
+   <back/>
+
+</text>
 </TEI>
+
+

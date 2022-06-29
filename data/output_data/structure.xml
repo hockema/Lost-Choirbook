@@ -4,16 +4,24 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
    <msDesc active="1"/>
    <headerInfo active="1"/>
+   <front active="1"/>
    <liste/>
    <editions>
       <edition data-key="dipl">Diplomatic</edition>
    </editions>
    <textpage>
-      <text n="CB" label="Choirbook">
+      <text n="1" label="Front Matter">
+         <pb n="Cover">folio_front</pb>
+         <pb n="Title Page">folio_tr</pb>
+         <pb n="000">folio_tv</pb>
+      </text>
+      <text n="2" label="Missa Elisabeth Zachariae">
          <pb n="87r">folio_87r</pb>
          <pb n="91r">folio_91r</pb>
          <pb n="92v">folio_92v</pb>
          <pb n="93r">folio_93r</pb>
+      </text>
+      <text n="3" label="Missa Quae est ista">
          <pb n="94v">folio_94v</pb>
          <pb n="95r">folio_95r</pb>
          <pb n="96v">folio_96v</pb>
@@ -44,6 +52,8 @@
          <pb n="121r">folio_121r</pb>
          <pb n="122v">folio_122v</pb>
          <pb n="123r">folio_123r</pb>
+      </text>
+      <text n="4" label="Missa Tu es pastor ovium">
          <pb n="124v">folio_124v</pb>
          <pb n="125r">folio_125r</pb>
          <pb n="126v">folio_126v</pb>
@@ -62,6 +72,34 @@
          <pb n="139r">folio_139r</pb>
          <pb n="140v">folio_140v</pb>
          <pb n="141r">folio_141r</pb>
+      </text>
+      <text n="5" label="Missa Veni de Libano">
+         <pb n="142v">folio_142v</pb>
+         <pb n="143r">folio_143r</pb>
+         <pb n="144v">folio_144v</pb>
+         <pb n="145r">folio_145r</pb>
+         <pb n="146v">folio_146v</pb>
+         <pb n="147r">folio_147r</pb>
+         <pb n="148v">folio_148v</pb>
+         <pb n="149r">folio_149r</pb>
+         <pb n="150v">folio_150v</pb>
+         <pb n="151r">folio_151r</pb>
+         <pb n="152v">folio_152v</pb>
+         <pb n="153r">folio_153r</pb>
+         <pb n="154v">folio_154v</pb>
+         <pb n="155r">folio_155r</pb>
+         <pb n="156v">folio_156v</pb>
+         <pb n="157r">folio_157r</pb>
+         <pb n="158v">folio_158v</pb>
+         <pb n="159r">folio_159r</pb>
+         <pb n="160v">folio_160v</pb>
+         <pb n="161r">folio_161r</pb>
+         <pb n="162v">folio_162v</pb>
+         <pb n="163r">folio_163r</pb>
+      </text>
+      <text n="6" label="Magnificat Primi toni">
+         <pb n="164v">folio_164v</pb>
+         <pb n="165r">folio_165r</pb>
          <pb n="166v">folio_166v</pb>
          <pb n="167r">folio_167r</pb>
          <pb n="168v">folio_168v</pb>
@@ -69,6 +107,8 @@
          <pb n="170v">folio_170v</pb>
          <pb n="171r">folio_171r</pb>
          <pb n="172v">folio_172v</pb>
+      </text>
+      <text n="7" label="Magnificat Secundi toni">
          <pb n="177r">folio_177r</pb>
          <pb n="178v">folio_178v</pb>
          <pb n="179r">folio_179r</pb>
@@ -80,12 +120,171 @@
          <pb n="185r">folio_185r</pb>
          <pb n="186v">folio_186v</pb>
          <pb n="187r">folio_187r</pb>
+      </text>
+      <text n="8" label="Magnificat Tertii toni">
          <pb n="188v">folio_188v</pb>
          <pb n="189r">folio_189r</pb>
+         <pb n="190v">folio_190v</pb>
+         <pb n="197r">folio_197r</pb>
+      </text>
+      <text n="9" label="Magnificat Quarti toni">
+         <pb n="198v">folio_198v</pb>
+         <pb n="199r">folio_199r</pb>
+         <pb n="200v">folio_200v</pb>
+         <pb n="201r">folio_201r</pb>
+         <pb n="202v">folio_202v</pb>
+         <pb n="203r">folio_203r</pb>
+         <pb n="204v">folio_204v</pb>
+         <pb n="205r">folio_205r</pb>
+         <pb n="206v">folio_206v</pb>
+         <pb n="207r">folio_207r</pb>
+      </text>
+      <text n="10" label="Magnificat Quinti toni">
+         <pb n="208v">folio_208v</pb>
+         <pb n="209r">folio_209r</pb>
+         <pb n="210v">folio_210v</pb>
+         <pb n="211r">folio_211r</pb>
+         <pb n="212v">folio_212v</pb>
+         <pb n="213r">folio_213r</pb>
+         <pb n="214v">folio_214v</pb>
+         <pb n="215r">folio_215r</pb>
+         <pb n="216v">folio_216v</pb>
+         <pb n="217r">folio_217r</pb>
+         <pb n="218v">folio_218v</pb>
+         <pb n="219r">folio_219r</pb>
+      </text>
+      <text n="11" label="Magnificat Sexti toni">
+         <pb n="220v">folio_220v</pb>
+         <pb n="221r">folio_221r</pb>
+         <pb n="222v">folio_222v</pb>
+         <pb n="223r">folio_223r</pb>
+         <pb n="224v">folio_224v</pb>
+         <pb n="225r">folio_225r</pb>
+         <pb n="226v">folio_226v</pb>
+         <pb n="227r">folio_227r</pb>
+         <pb n="228v">folio_228v</pb>
+         <pb n="229r">folio_229r</pb>
+         <pb n="230v">folio_230v</pb>
+         <pb n="231r">folio_231r</pb>
+      </text>
+      <text n="12" label="Magnificat Septimi toni">
+         <pb n="232v">folio_232v</pb>
+         <pb n="233r">folio_233r</pb>
+         <pb n="234v">folio_234v</pb>
+         <pb n="235r">folio_235r</pb>
+         <pb n="235v">folio_236v</pb>
+         <pb n="237r">folio_237r</pb>
+         <pb n="238v">folio_238v</pb>
+         <pb n="239r">folio_239r</pb>
+         <pb n="240v">folio_240v</pb>
+         <pb n="241r">folio_241r</pb>
+      </text>
+      <text n="13" label="Magnificat Octavi toni">
+         <pb n="242v">folio_242v</pb>
+         <pb n="243r">folio_243r</pb>
+         <pb n="244v">folio_244v</pb>
+         <pb n="245r">folio_245r</pb>
+         <pb n="246v">folio_246v</pb>
+         <pb n="247r">folio_247r</pb>
+         <pb n="248v">folio_248v</pb>
+         <pb n="249r">folio_249r</pb>
+         <pb n="250v">folio_250v</pb>
+         <pb n="251r">folio_251r</pb>
+      </text>
+      <text n="14" label="Tribulationes cordis mea">
+         <pb n="252v">folio_252v</pb>
+         <pb n="253r">folio_253r</pb>
+         <pb n="254v">folio_254v</pb>
+         <pb n="255r">folio_255r</pb>
+      </text>
+      <text n="15" label="Hoc est praeceptum meum">
+         <pb n="256v">folio_256v</pb>
+         <pb n="257r">folio_257r</pb>
+         <pb n="258v">folio_258v</pb>
+         <pb n="259r">folio_259r</pb>
+      </text>
+      <text n="16" label="Iste Sanctus">
+         <pb n="260v">folio_260v</pb>
+         <pb n="261r">folio_261r</pb>
+         <pb n="262v">folio_262v</pb>
+         <pb n="263r">folio_263r</pb>
+      </text>
+      <text n="17" label="Ave sanctissima Maria">
+         <pb n="264v">folio_264v</pb>
+         <pb n="265r">folio_265r</pb>
+         <pb n="266v">folio_266v</pb>
+         <pb n="267r">folio_267r</pb>
+         <pb n="268v">folio_268v</pb>
+         <pb n="269r">folio_269r</pb>
+      </text>
+      <text n="18" label="Stabat mater">
+         <pb n="270v">folio_270v</pb>
+         <pb n="271r">folio_271r</pb>
+         <pb n="272v">folio_272v</pb>
+         <pb n="273r">folio_273r</pb>
+      </text>
+      <text n="19" label="O Ildefonse">
+         <pb n="274v">folio_274v</pb>
+         <pb n="275r">folio_275r</pb>
+      </text>
+      <text n="20" label="Gaudent in caelis">
+         <pb n="276v">folio_276v</pb>
+         <pb n="277r">folio_277r</pb>
+      </text>
+      <text n="21" label="Hic vir despiciens mundum">
+         <pb n="278v">folio_278v</pb>
+         <pb n="279r">folio_279r</pb>
+      </text>
+      <text n="22" label="O doctor optime">
+         <pb n="280v">folio_280v</pb>
+         <pb n="281r">folio_281r</pb>
+      </text>
+      <text n="23" label="Assumpsit Jesus Petrum">
+         <pb n="282v">folio_282v</pb>
+         <pb n="283r">folio_283r</pb>
+      </text>
+      <text n="24" label="Veni sponsa Christi">
+         <pb n="284v">folio_284v</pb>
+         <pb n="285r">folio_285r</pb>
+      </text>
+      <text n="25" label="Amavit eum Dominus">
+         <pb n="286v">folio_286v</pb>
+         <pb n="287r">folio_287r</pb>
+      </text>
+      <text n="26" label="Salve regina">
+         <pb n="288v">folio_288v</pb>
+         <pb n="289r">folio_289r</pb>
+         <pb n="290v">folio_290v</pb>
+         <pb n="291r">folio_291r</pb>
+         <pb n="292v">folio_292v</pb>
+         <pb n="293r">folio_293r</pb>
+      </text>
+      <text n="27" label="Benedicamus Domino [1]">
+         <pb n="294v">folio_294v</pb>
+         <pb n="295r">folio_295r</pb>
+      </text>
+      <text n="28" label="Benedicamus Domino [2]">
+         <pb n="296v">folio_296v</pb>
+      </text>
+      <text n="29" label="Benedicamus Domino [3]">
+         <pb n="296v">folio_296v</pb>
+      </text>
+      <text n="30" label="Back Cover">
+         <pb n="301r">folio_301r</pb>
+         <pb n="Back Cover">folio_back</pb>
       </text>
    </textpage>
    <pages>
       <pair>
+         <pb n="Cover">folio_front</pb>
+      </pair>
+      <pair>
+         <pb n="Title Page">folio_tr</pb>
+      </pair>
+      <pair>
+         <pb n="000">folio_tv</pb>
+      </pair>
+      <pair>
          <pb n="87r">folio_87r</pb>
       </pair>
       <pair>
@@ -194,6 +393,54 @@
          <pb n="141r">folio_141r</pb>
       </pair>
       <pair>
+         <pb n="142v">folio_142v</pb>
+         <pb n="143r">folio_143r</pb>
+      </pair>
+      <pair>
+         <pb n="144v">folio_144v</pb>
+         <pb n="145r">folio_145r</pb>
+      </pair>
+      <pair>
+         <pb n="146v">folio_146v</pb>
+         <pb n="147r">folio_147r</pb>
+      </pair>
+      <pair>
+         <pb n="148v">folio_148v</pb>
+         <pb n="149r">folio_149r</pb>
+      </pair>
+      <pair>
+         <pb n="150v">folio_150v</pb>
+         <pb n="151r">folio_151r</pb>
+      </pair>
+      <pair>
+         <pb n="152v">folio_152v</pb>
+         <pb n="153r">folio_153r</pb>
+      </pair>
+      <pair>
+         <pb n="154v">folio_154v</pb>
+         <pb n="155r">folio_155r</pb>
+      </pair>
+      <pair>
+         <pb n="156v">folio_156v</pb>
+         <pb n="157r">folio_157r</pb>
+      </pair>
+      <pair>
+         <pb n="158v">folio_158v</pb>
+         <pb n="159r">folio_159r</pb>
+      </pair>
+      <pair>
+         <pb n="160v">folio_160v</pb>
+         <pb n="161r">folio_161r</pb>
+      </pair>
+      <pair>
+         <pb n="162v">folio_162v</pb>
+         <pb n="163r">folio_163r</pb>
+      </pair>
+      <pair>
+         <pb n="164v">folio_164v</pb>
+         <pb n="165r">folio_165r</pb>
+      </pair>
+      <pair>
          <pb n="166v">folio_166v</pb>
          <pb n="167r">folio_167r</pb>
       </pair>
@@ -234,6 +481,219 @@
       <pair>
          <pb n="188v">folio_188v</pb>
          <pb n="189r">folio_189r</pb>
+      </pair>
+      <pair>
+         <pb n="190v">folio_190v</pb>
+      </pair>
+      <pair>
+         <pb n="197r">folio_197r</pb>
+      </pair>
+      <pair>
+         <pb n="198v">folio_198v</pb>
+         <pb n="199r">folio_199r</pb>
+      </pair>
+      <pair>
+         <pb n="200v">folio_200v</pb>
+         <pb n="201r">folio_201r</pb>
+      </pair>
+      <pair>
+         <pb n="202v">folio_202v</pb>
+         <pb n="203r">folio_203r</pb>
+      </pair>
+      <pair>
+         <pb n="204v">folio_204v</pb>
+         <pb n="205r">folio_205r</pb>
+      </pair>
+      <pair>
+         <pb n="206v">folio_206v</pb>
+         <pb n="207r">folio_207r</pb>
+      </pair>
+      <pair>
+         <pb n="208v">folio_208v</pb>
+         <pb n="209r">folio_209r</pb>
+      </pair>
+      <pair>
+         <pb n="210v">folio_210v</pb>
+         <pb n="211r">folio_211r</pb>
+      </pair>
+      <pair>
+         <pb n="212v">folio_212v</pb>
+         <pb n="213r">folio_213r</pb>
+      </pair>
+      <pair>
+         <pb n="214v">folio_214v</pb>
+         <pb n="215r">folio_215r</pb>
+      </pair>
+      <pair>
+         <pb n="216v">folio_216v</pb>
+         <pb n="217r">folio_217r</pb>
+      </pair>
+      <pair>
+         <pb n="218v">folio_218v</pb>
+         <pb n="219r">folio_219r</pb>
+      </pair>
+      <pair>
+         <pb n="220v">folio_220v</pb>
+         <pb n="221r">folio_221r</pb>
+      </pair>
+      <pair>
+         <pb n="222v">folio_222v</pb>
+         <pb n="223r">folio_223r</pb>
+      </pair>
+      <pair>
+         <pb n="224v">folio_224v</pb>
+         <pb n="225r">folio_225r</pb>
+      </pair>
+      <pair>
+         <pb n="226v">folio_226v</pb>
+         <pb n="227r">folio_227r</pb>
+      </pair>
+      <pair>
+         <pb n="228v">folio_228v</pb>
+         <pb n="229r">folio_229r</pb>
+      </pair>
+      <pair>
+         <pb n="230v">folio_230v</pb>
+         <pb n="231r">folio_231r</pb>
+      </pair>
+      <pair>
+         <pb n="232v">folio_232v</pb>
+         <pb n="233r">folio_233r</pb>
+      </pair>
+      <pair>
+         <pb n="234v">folio_234v</pb>
+         <pb n="235r">folio_235r</pb>
+      </pair>
+      <pair>
+         <pb n="235v">folio_236v</pb>
+      </pair>
+      <pair>
+         <pb n="237r">folio_237r</pb>
+      </pair>
+      <pair>
+         <pb n="238v">folio_238v</pb>
+         <pb n="239r">folio_239r</pb>
+      </pair>
+      <pair>
+         <pb n="240v">folio_240v</pb>
+         <pb n="241r">folio_241r</pb>
+      </pair>
+      <pair>
+         <pb n="242v">folio_242v</pb>
+         <pb n="243r">folio_243r</pb>
+      </pair>
+      <pair>
+         <pb n="244v">folio_244v</pb>
+         <pb n="245r">folio_245r</pb>
+      </pair>
+      <pair>
+         <pb n="246v">folio_246v</pb>
+         <pb n="247r">folio_247r</pb>
+      </pair>
+      <pair>
+         <pb n="248v">folio_248v</pb>
+         <pb n="249r">folio_249r</pb>
+      </pair>
+      <pair>
+         <pb n="250v">folio_250v</pb>
+         <pb n="251r">folio_251r</pb>
+      </pair>
+      <pair>
+         <pb n="252v">folio_252v</pb>
+         <pb n="253r">folio_253r</pb>
+      </pair>
+      <pair>
+         <pb n="254v">folio_254v</pb>
+         <pb n="255r">folio_255r</pb>
+      </pair>
+      <pair>
+         <pb n="256v">folio_256v</pb>
+         <pb n="257r">folio_257r</pb>
+      </pair>
+      <pair>
+         <pb n="258v">folio_258v</pb>
+         <pb n="259r">folio_259r</pb>
+      </pair>
+      <pair>
+         <pb n="260v">folio_260v</pb>
+         <pb n="261r">folio_261r</pb>
+      </pair>
+      <pair>
+         <pb n="262v">folio_262v</pb>
+         <pb n="263r">folio_263r</pb>
+      </pair>
+      <pair>
+         <pb n="264v">folio_264v</pb>
+         <pb n="265r">folio_265r</pb>
+      </pair>
+      <pair>
+         <pb n="266v">folio_266v</pb>
+         <pb n="267r">folio_267r</pb>
+      </pair>
+      <pair>
+         <pb n="268v">folio_268v</pb>
+         <pb n="269r">folio_269r</pb>
+      </pair>
+      <pair>
+         <pb n="270v">folio_270v</pb>
+         <pb n="271r">folio_271r</pb>
+      </pair>
+      <pair>
+         <pb n="272v">folio_272v</pb>
+         <pb n="273r">folio_273r</pb>
+      </pair>
+      <pair>
+         <pb n="274v">folio_274v</pb>
+         <pb n="275r">folio_275r</pb>
+      </pair>
+      <pair>
+         <pb n="276v">folio_276v</pb>
+         <pb n="277r">folio_277r</pb>
+      </pair>
+      <pair>
+         <pb n="278v">folio_278v</pb>
+         <pb n="279r">folio_279r</pb>
+      </pair>
+      <pair>
+         <pb n="280v">folio_280v</pb>
+         <pb n="281r">folio_281r</pb>
+      </pair>
+      <pair>
+         <pb n="282v">folio_282v</pb>
+         <pb n="283r">folio_283r</pb>
+      </pair>
+      <pair>
+         <pb n="284v">folio_284v</pb>
+         <pb n="285r">folio_285r</pb>
+      </pair>
+      <pair>
+         <pb n="286v">folio_286v</pb>
+         <pb n="287r">folio_287r</pb>
+      </pair>
+      <pair>
+         <pb n="288v">folio_288v</pb>
+         <pb n="289r">folio_289r</pb>
+      </pair>
+      <pair>
+         <pb n="290v">folio_290v</pb>
+         <pb n="291r">folio_291r</pb>
+      </pair>
+      <pair>
+         <pb n="292v">folio_292v</pb>
+         <pb n="293r">folio_293r</pb>
+      </pair>
+      <pair>
+         <pb n="294v">folio_294v</pb>
+         <pb n="295r">folio_295r</pb>
+      </pair>
+      <pair>
+         <pb n="296v">folio_296v</pb>
+      </pair>
+      <pair>
+         <pb n="301r">folio_301r</pb>
+      </pair>
+      <pair>
+         <pb n="Back Cover">folio_back</pb>
       </pair>
    </pages>
    <idno/>
