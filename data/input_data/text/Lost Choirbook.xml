@@ -167,10 +167,10 @@
             <pb n="Cover" xml:id="folio_0v"/>
             <pb n="Title Page" xml:id="folio_tr"/>
                <p> 
-                  <lb type="Title" rend="center" n="1"/>SVPERIORVM [PERMISSV]
-                  <lb type="Title" rend="center" n="1"/>SALMA[N]T[ICAE]
-                  <lb type="Title" rend="center" n="1"/>Ex officina typographica Antonij V[AZQUEZ]
-                  <lb type="Title" rend="center" n="1"/>Anno à Christo nato M. DC.
+                  <lb rend="center" n="1"/>SVPERIORVM [PERMISSV]
+                  <lb rend="center" n="1"/>SALMA[N]T[ICAE]
+                  <lb rend="center" n="1"/>Ex officina typographica Antonij V[AZQUEZ]
+                  <lb rend="center" n="1"/>Anno à Christo nato M. DC.
                </p>
             <pb n="000" xml:id="folio_tv"/>
                <p><lb/>Pages are missing throughout.</p>
