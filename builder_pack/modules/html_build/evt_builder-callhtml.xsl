@@ -641,7 +641,7 @@
 														<xsl:attribute name="title" select="'MANUSCRIPT_DESCRIPTION'"/>
 														<xsl:attribute name="lang" select="'def'"/>
 														<xsl:attribute name="class">mainButtons secondary_toggler <xsl:if test="$left_frame_default_content='info'"> active</xsl:if></xsl:attribute>
-														<span lang="def">MS_DESC</span>
+														<span lang="def">Book Desc</span>
 														<xsl:element name="i">
 															<xsl:attribute name="class" select="'fa fa-info-circle'"/>
 														</xsl:element>
