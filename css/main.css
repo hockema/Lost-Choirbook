@@ -2209,12 +2209,12 @@ div[id*='left_menu'] #switchFront-add {
 }
 
 div.doc.not_current {
-    opacity: .3;
+    opacity: 1;
 }
 
 div.doc.not_current:hover {
     cursor: pointer;
-    opacity: .6;
+    opacity: 1;
 }
 
 .translation .doc.not_current {
