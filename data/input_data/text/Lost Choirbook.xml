@@ -1003,6 +1003,7 @@
          <body>
             <pb n="296v" xml:id="folio_296v"/>
             <p>Transcription goes here.</p>
+            <pb n="297r" xml:id="folio_297r"/>
          </body>
       </text>
       
@@ -1012,19 +1013,20 @@
                <p>
                   <lb rend="center"/><emph rend="bold">[?Benedicamus Domino 3]</emph>
                   <lb rend="empty"/>
-                  <lb/><emph rend="italics">?Benedicamus Domino</emph> ([289-299]). Missing.
+                  <lb/><emph rend="italics">?Benedicamus Domino</emph> ([298-299]). Missing.
                </p>
             </div>
          </front>
          <body>
-            <pb n="298v"/>
+            <pb n="298v" xml:id="folio_298v"/>
             <p>Nothing is here yet</p>
+            <pb n="299r" xml:id="folio_299r"/>
          </body>
       </text>
       
       <text n="colophon">
          <body>
-            <pb n="300v"/>
+            <pb n="300v" xml:id="folio_300v"/>
             <p>Text</p>
          </body>
       </text>

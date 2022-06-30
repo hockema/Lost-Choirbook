@@ -1542,7 +1542,7 @@
 									"line" : "no line info|no line info", 
 									"text" : " ", 
 									"tags" : "CB|Choirbook Magnificat Septimi toni", 
-									"loc" : "folio_236v|235v",
+									"loc" : "folio_236v|236v",
 									"inFront": "false" 
 								}, 
 							 
@@ -2010,19 +2010,19 @@
 											"inFront": "false"
 										},
 									
-										{ 
-											"line" : "no line info|no line info",
-											"text" : "Transcription goes here. ",
-											"tags" : "CB|Choirbook Benedicamus Domino [2] ?Benedicamus Domino [3]",
-											"loc" : "folio_296v|296v",
-											"inFront": "false"
-										},
-									
+									{
+									"line" : "|",
+									"text" : "Transcription goes here.",
+									"tags" : "1|Benedicamus Domino [2]",
+									"loc" : "folio_296v|296v",
+									"inFront": "false"
+									},
+								
 										{ 
 											"line" : "no line info|no line info",
 											"text" : "",
 											"tags" : "CB|Choirbook ?Benedicamus Domino [3]",
-											"loc" : "folio_296v|296v",
+											"loc" : "folio_297r|297r",
 											"inFront": "false"
 										},
 									
@@ -2030,15 +2030,23 @@
 									"line" : "|",
 									"text" : "Nothing is here yet",
 									"tags" : "1|?Benedicamus Domino [3]",
-									"loc" : "no_page_info|298v",
+									"loc" : "folio_298v|298v",
 									"inFront": "false"
 									},
-								
+								 
+								{ 
+									"line" : "no line info|no line info", 
+									"text" : " ", 
+									"tags" : "CB|Choirbook ?Benedicamus Domino [3] colophon", 
+									"loc" : "folio_298v|298v",
+									"inFront": "false" 
+								}, 
+							
 									{
 									"line" : "|",
 									"text" : "Text",
 									"tags" : "1|colophon",
-									"loc" : "no_page_info|300v",
+									"loc" : "folio_300v|300v",
 									"inFront": "false"
 									},
 								

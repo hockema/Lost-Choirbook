@@ -188,7 +188,7 @@
          <pb n="233r">folio_233r</pb>
          <pb n="234v">folio_234v</pb>
          <pb n="235r">folio_235r</pb>
-         <pb n="235v">folio_236v</pb>
+         <pb n="236v">folio_236v</pb>
          <pb n="237r">folio_237r</pb>
          <pb n="238v">folio_238v</pb>
          <pb n="239r">folio_239r</pb>
@@ -281,12 +281,14 @@
       </text>
       <text n="28" label="Benedicamus Domino [2]">
          <pb n="296v">folio_296v</pb>
+         <pb n="297r">folio_297r</pb>
       </text>
       <text n="29" label="?Benedicamus Domino [3]">
-         <pb n="298v">298v</pb>
+         <pb n="298v">folio_298v</pb>
+         <pb n="299r">folio_299r</pb>
       </text>
       <text n="30" label="colophon">
-         <pb n="300v">300v</pb>
+         <pb n="300v">folio_300v</pb>
       </text>
       <text n="31" label="Back Cover">
          <pb n="301r">folio_301r</pb>
@@ -612,9 +614,7 @@
          <pb n="235r">folio_235r</pb>
       </pair>
       <pair>
-         <pb n="235v">folio_236v</pb>
-      </pair>
-      <pair>
+         <pb n="236v">folio_236v</pb>
          <pb n="237r">folio_237r</pb>
       </pair>
       <pair>
@@ -735,12 +735,14 @@
       </pair>
       <pair>
          <pb n="296v">folio_296v</pb>
+         <pb n="297r">folio_297r</pb>
       </pair>
       <pair>
-         <pb n="298v">298v</pb>
+         <pb n="298v">folio_298v</pb>
+         <pb n="299r">folio_299r</pb>
       </pair>
       <pair>
-         <pb n="300v">300v</pb>
+         <pb n="300v">folio_300v</pb>
          <pb n="301r">folio_301r</pb>
       </pair>
       <pair>
