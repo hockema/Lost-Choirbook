@@ -149,12 +149,17 @@
       </surface>
    </facsimile>
    
-<text n="Choirbook" type="prose" xml:id="CB">
+<text n="Choirbook" type="prose">
    
+   <front>
+      <div>
+         <p>This is front matter for the document</p>
+      </div>
+   </front>
   
    <group>
       
-      <text n="Front Matter">
+      <text n="Front Matter" xml:id="FrontMatter">
          <front>
             <div>
                <p>[Information about cover?]
@@ -166,11 +171,11 @@
             <pb n="Cover" xml:id="folio_front"/>
             <pb n="Cover" xml:id="folio_0v"/>
             <pb n="Title Page" xml:id="folio_tr"/>
-               <p> 
-                  <lb rend="center" n="1"/>SVPERIORVM [PERMISSV]
-                  <lb rend="center" n="1"/>SALMA[N]T[ICAE]
-                  <lb rend="center" n="1"/>Ex officina typographica Antonij V[AZQUEZ]
-                  <lb rend="center" n="1"/>Anno à Christo nato M. DC.
+               <p rend="center"> 
+                  <lb/>SVPERIORVM [PERMISSV]
+                  <lb/>SALMA[N]T[ICAE]
+                  <lb/>Ex officina typographica Antonij V[AZQUEZ]
+                  <lb/>Anno à Christo nato M. DC.
                </p>
             <pb n="000" xml:id="folio_tv"/>
                <p><lb/>Pages are missing throughout.</p>
@@ -544,17 +549,18 @@
             </div>
          </front>
          <body>
-            <pb n="198v" xml:id="folio_198v"/>
-            <p>Transcription goes here.</p>
-            <pb n="199r" xml:id="folio_199r"/>
-            <pb n="200v" xml:id="folio_200v"/>
-            <pb n="201r" xml:id="folio_201r"/>
-            <pb n="202v" xml:id="folio_202v"/>
-            <pb n="203r" xml:id="folio_203r"/>
-            <pb n="204v" xml:id="folio_204v"/>
-            <pb n="205r" xml:id="folio_205r"/>
-            <pb n="206v" xml:id="folio_206v"/>
-            <pb n="207r" xml:id="folio_207r"/>
+               <pb n="198v" xml:id="folio_198v"/>
+                   <p>
+                   <lb rend="center" n="1"/>Transcription goes here.</p>
+               <pb n="199r" xml:id="folio_199r"/>
+               <pb n="200v" xml:id="folio_200v"/>
+               <pb n="201r" xml:id="folio_201r"/>
+               <pb n="202v" xml:id="folio_202v"/>
+               <pb n="203r" xml:id="folio_203r"/>
+               <pb n="204v" xml:id="folio_204v"/>
+               <pb n="205r" xml:id="folio_205r"/>
+               <pb n="206v" xml:id="folio_206v"/>
+               <pb n="207r" xml:id="folio_207r"/>
          </body>
       </text>
       

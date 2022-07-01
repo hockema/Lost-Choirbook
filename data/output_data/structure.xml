@@ -10,14 +10,14 @@
       <edition data-key="dipl">Diplomatic</edition>
    </editions>
    <textpage>
-      <text n="1" label="Front Matter">
+      <text n="FrontMatter" label="Front Matter">
          <pb n="Cover">folio_front</pb>
          <pb n="Cover">folio_0v</pb>
          <pb n="Title Page">folio_tr</pb>
          <pb n="000">folio_tv</pb>
          <pb n="1–85">folio_1r</pb>
       </text>
-      <text n="2" label="Missa Elisabeth Zachariae">
+      <text n="MissaElisabeth" label="Missa Elisabeth Zachariae">
          <pb n="86v">folio_86v</pb>
          <pb n="87r">folio_87r</pb>
          <pb n="88v">folio_88v</pb>
@@ -27,7 +27,7 @@
          <pb n="92v">folio_92v</pb>
          <pb n="93r">folio_93r</pb>
       </text>
-      <text n="3" label="Missa Quae est ista">
+      <text n="MissaQuae" label="Missa Quae est ista">
          <pb n="94v">folio_94v</pb>
          <pb n="95r">folio_95r</pb>
          <pb n="96v">folio_96v</pb>
@@ -59,7 +59,7 @@
          <pb n="122v">folio_122v</pb>
          <pb n="123r">folio_123r</pb>
       </text>
-      <text n="4" label="Missa Tu es pastor ovium">
+      <text n="MissaTu" label="Missa Tu es pastor ovium">
          <pb n="124v">folio_124v</pb>
          <pb n="125r">folio_125r</pb>
          <pb n="126v">folio_126v</pb>
@@ -79,7 +79,7 @@
          <pb n="140v">folio_140v</pb>
          <pb n="141r">folio_141r</pb>
       </text>
-      <text n="5" label="Missa Veni de Libano">
+      <text n="MissaVeni" label="Missa Veni de Libano">
          <pb n="142v">folio_142v</pb>
          <pb n="143r">folio_143r</pb>
          <pb n="144v">folio_144v</pb>
@@ -103,7 +103,7 @@
          <pb n="162v">folio_162v</pb>
          <pb n="163r">folio_163r</pb>
       </text>
-      <text n="6" label="Magnificat Primi toni">
+      <text n="PrimiToni" label="Magnificat Primi toni">
          <pb n="164v">folio_164v</pb>
          <pb n="165r">folio_165r</pb>
          <pb n="166v">folio_166v</pb>
@@ -117,7 +117,7 @@
          <pb n="174v">folio_174v</pb>
          <pb n="175r">folio_175r</pb>
       </text>
-      <text n="7" label="Magnificat Secundi toni">
+      <text n="SecundiToni" label="Magnificat Secundi toni">
          <pb n="176v">folio_176v</pb>
          <pb n="177r">folio_177r</pb>
          <pb n="178v">folio_178v</pb>
@@ -131,7 +131,7 @@
          <pb n="186v">folio_186v</pb>
          <pb n="187r">folio_187r</pb>
       </text>
-      <text n="8" label="Magnificat Tertii toni">
+      <text n="TertiiToni" label="Magnificat Tertii toni">
          <pb n="188v">folio_188v</pb>
          <pb n="189r">folio_189r</pb>
          <pb n="190v">folio_190v</pb>
@@ -143,7 +143,7 @@
          <pb n="196v">folio_196v</pb>
          <pb n="197r">folio_197r</pb>
       </text>
-      <text n="9" label="Magnificat Quarti toni">
+      <text n="QuartiToni" label="Magnificat Quarti toni">
          <pb n="198v">folio_198v</pb>
          <pb n="199r">folio_199r</pb>
          <pb n="200v">folio_200v</pb>
@@ -155,7 +155,7 @@
          <pb n="206v">folio_206v</pb>
          <pb n="207r">folio_207r</pb>
       </text>
-      <text n="10" label="Magnificat Quinti toni">
+      <text n="QuintiToni" label="Magnificat Quinti toni">
          <pb n="208v">folio_208v</pb>
          <pb n="209r">folio_209r</pb>
          <pb n="210v">folio_210v</pb>
@@ -169,7 +169,7 @@
          <pb n="218v">folio_218v</pb>
          <pb n="219r">folio_219r</pb>
       </text>
-      <text n="11" label="Magnificat Sexti toni">
+      <text n="SextiToni" label="Magnificat Sexti toni">
          <pb n="220v">folio_220v</pb>
          <pb n="221r">folio_221r</pb>
          <pb n="222v">folio_222v</pb>
@@ -183,7 +183,7 @@
          <pb n="230v">folio_230v</pb>
          <pb n="231r">folio_231r</pb>
       </text>
-      <text n="12" label="Magnificat Septimi toni">
+      <text n="SeptimiToni" label="Magnificat Septimi toni">
          <pb n="232v">folio_232v</pb>
          <pb n="233r">folio_233r</pb>
          <pb n="234v">folio_234v</pb>
@@ -195,7 +195,7 @@
          <pb n="240v">folio_240v</pb>
          <pb n="241r">folio_241r</pb>
       </text>
-      <text n="13" label="Magnificat Octavi toni">
+      <text n="OctaviToni" label="Magnificat Octavi toni">
          <pb n="242v">folio_242v</pb>
          <pb n="243r">folio_243r</pb>
          <pb n="244v">folio_244v</pb>
@@ -207,25 +207,25 @@
          <pb n="250v">folio_250v</pb>
          <pb n="251r">folio_251r</pb>
       </text>
-      <text n="14" label="Tribulationes cordis mea">
+      <text n="Tribulationes" label="Tribulationes cordis mea">
          <pb n="252v">folio_252v</pb>
          <pb n="253r">folio_253r</pb>
          <pb n="254v">folio_254v</pb>
          <pb n="255r">folio_255r</pb>
       </text>
-      <text n="15" label="Hoc est praeceptum meum">
+      <text n="HocEst" label="Hoc est praeceptum meum">
          <pb n="256v">folio_256v</pb>
          <pb n="257r">folio_257r</pb>
          <pb n="258v">folio_258v</pb>
          <pb n="259r">folio_259r</pb>
       </text>
-      <text n="16" label="Iste Sanctus">
+      <text n="Sanctus" label="Iste Sanctus">
          <pb n="260v">folio_260v</pb>
          <pb n="261r">folio_261r</pb>
          <pb n="262v">folio_262v</pb>
          <pb n="263r">folio_263r</pb>
       </text>
-      <text n="17" label="Ave sanctissima Maria">
+      <text n="AveMaria" label="Ave sanctissima Maria">
          <pb n="264v">folio_264v</pb>
          <pb n="265r">folio_265r</pb>
          <pb n="266v">folio_266v</pb>
@@ -233,41 +233,41 @@
          <pb n="268v">folio_268v</pb>
          <pb n="269r">folio_269r</pb>
       </text>
-      <text n="18" label="Stabat mater">
+      <text n="StabatMater" label="Stabat mater">
          <pb n="270v">folio_270v</pb>
          <pb n="271r">folio_271r</pb>
          <pb n="272v">folio_272v</pb>
          <pb n="273r">folio_273r</pb>
       </text>
-      <text n="19" label="O Ildefonse">
+      <text n="Ildefonse" label="O Ildefonse">
          <pb n="274v">folio_274v</pb>
          <pb n="275r">folio_275r</pb>
       </text>
-      <text n="20" label="Gaudent in caelis">
+      <text n="Gaudent" label="Gaudent in caelis">
          <pb n="276v">folio_276v</pb>
          <pb n="277r">folio_277r</pb>
       </text>
-      <text n="21" label="Hic vir despiciens mundum">
+      <text n="HicVir" label="Hic vir despiciens mundum">
          <pb n="278v">folio_278v</pb>
          <pb n="279r">folio_279r</pb>
       </text>
-      <text n="22" label="O doctor optime">
+      <text n="Doctore" label="O doctor optime">
          <pb n="280v">folio_280v</pb>
          <pb n="281r">folio_281r</pb>
       </text>
-      <text n="23" label="Assumpsit Jesus Petrum">
+      <text n="AssumpsitJesus" label="Assumpsit Jesus Petrum">
          <pb n="282v">folio_282v</pb>
          <pb n="283r">folio_283r</pb>
       </text>
-      <text n="24" label="Veni sponsa Christi">
+      <text n="VeniSponsa" label="Veni sponsa Christi">
          <pb n="284v">folio_284v</pb>
          <pb n="285r">folio_285r</pb>
       </text>
-      <text n="25" label="Amavit eum Dominus">
+      <text n="AmavitEum" label="Amavit eum Dominus">
          <pb n="286v">folio_286v</pb>
          <pb n="287r">folio_287r</pb>
       </text>
-      <text n="26" label="Salve regina">
+      <text n="SalveRegina" label="Salve regina">
          <pb n="288v">folio_288v</pb>
          <pb n="289r">folio_289r</pb>
          <pb n="290v">folio_290v</pb>
@@ -275,22 +275,22 @@
          <pb n="292v">folio_292v</pb>
          <pb n="293r">folio_293r</pb>
       </text>
-      <text n="27" label="Benedicamus Domino [1]">
+      <text n="Benedicamus1" label="Benedicamus Domino [1]">
          <pb n="294v">folio_294v</pb>
          <pb n="295r">folio_295r</pb>
       </text>
-      <text n="28" label="Benedicamus Domino [2]">
+      <text n="Benedicamus2" label="Benedicamus Domino [2]">
          <pb n="296v">folio_296v</pb>
          <pb n="297r">folio_297r</pb>
       </text>
-      <text n="29" label="?Benedicamus Domino [3]">
+      <text n="Benedicamus3" label="?Benedicamus Domino [3]">
          <pb n="298v">folio_298v</pb>
          <pb n="299r">folio_299r</pb>
       </text>
-      <text n="30" label="colophon">
+      <text n="Colophon" label="colophon">
          <pb n="300v">folio_300v</pb>
       </text>
-      <text n="31" label="Back Cover">
+      <text n="BackCover" label="Back Cover">
          <pb n="301r">folio_301r</pb>
          <pb n="Back Cover">folio_back</pb>
       </text>
