@@ -151,11 +151,7 @@
    
 <text n="Choirbook" type="prose">
    
-   <front>
-      <div>
-         <p>This is front matter for the document</p>
-      </div>
-   </front>
+   
   
    <group>
       
@@ -183,7 +179,7 @@
          </body>
       </text>
 
-      <text n="Missa Elisabeth Zachariae">
+      <text n="Missa Elisabeth Zachariae" xml:id="MissaElisabeth">
          <front>
             <div>
                <p><lb rend="center"/><emph rend="bold">Missa Elisabeth Zachariae (4vv)</emph>
@@ -217,7 +213,7 @@
          </body>
       </text>
       
-      <text n="Missa Quae est ista">
+      <text n="Missa Quae est ista" xml:id="MissaQuae">
          <front>
             <div>
                <p><lb rend="center"/><emph rend="bold">Missa Quae est ista (4vv)</emph>
@@ -269,7 +265,7 @@
          </body>
       </text>
       
-      <text n="Missa Tu es pastor ovium">
+      <text n="Missa Tu es pastor ovium" xml:id="MissaTu">
          <front>
             <div>
                <p>
@@ -309,7 +305,7 @@
          </body>
       </text>
       
-      <text n="Missa Veni de Libano">
+      <text n="Missa Veni de Libano" xml:id="MissaVeni">
          <front>
             <div>
                <p>
@@ -353,7 +349,7 @@
          </body>
       </text>
       
-      <text n="Magnificat Primi toni">
+      <text n="Magnificat Primi toni" xml:id="PrimiToni">
          <front>
             <div>
                <p>
@@ -375,7 +371,7 @@
             <pb n="165r" xml:id="folio_165r"/>
             <pb n="166v" xml:id="folio_166v"/>
             <p>
-         <lb rend="center" facs="#LCB_166v_header" xml:id="LCB_166v_headtxt"/>PRIMI TON 1. ilij.
+         <lb rend="center" facs="#LCB_166v_header" xml:id="LCB_166v_headtxt"/>PRIMI TONI. ilij.
          vocum. <lb facs="#LCB_166v_box_01" xml:id="LCB_166v_boxtxt_01"/>SVPERIVS.<lb
             facs="#LCB_166v_line_01" n="1" xml:id="LCB_166v_lb_01"/><hi>Q</hi>Via Respe xit,
          Respexit<note>This is a generic, unnumbered note.</note> hu mi li ta- <lb
@@ -420,7 +416,7 @@
       </p>
             <pb n="168v" xml:id="folio_168v"/>
             <p>
-         <lb rend="center" facs="#LCB_168v_header" xml:id="LCB_168v_headtxt"/>PRIMI TON I. ilij.
+         <lb rend="center" facs="#LCB_168v_header" xml:id="LCB_168v_headtxt"/>PRIMI TONI. ilij.
          vocum. <lb facs="#LCB_168v_box_01" xml:id="LCB_168v_boxtxt_01"/>SVPERIVS. <hi>E</hi>
          <lb facs="#LCB_168v_line_01" xml:id="LCB_168v_lb_01" n="1"/>T mi se ri cordi a e <lb
             facs="#LCB_168v_line_02" xml:id="LCB_168v_lb_02" n="2"/>ius. Et mise ri cor di a e
@@ -464,7 +460,7 @@
          </back>
       </text>
       
-      <text n="Magnificat Secundi toni">
+      <text n="Magnificat Secundi toni" xml:id="SecundiToni">
          <front>
             <div>
                <p>
@@ -500,7 +496,7 @@
          </body>
       </text>
       
-      <text n="Magnificat Tertii toni">
+      <text n="Magnificat Tertii toni" xml:id="TertiiToni">
          <front>
             <div>
                <p>
@@ -532,7 +528,7 @@
          </body>
       </text>
       
-      <text n="Magnificat Quarti toni">
+      <text n="Magnificat Quarti toni" xml:id="QuartiToni">
          <front>
             <div>
                <p>
@@ -564,7 +560,7 @@
          </body>
       </text>
       
-      <text n="Magnificat Quinti toni">
+      <text n="Magnificat Quinti toni" xml:id="QuintiToni">
          <front>
             <div>
                <p>
@@ -597,7 +593,7 @@
          </body>
       </text>
       
-      <text n="Magnificat Sexti toni">
+      <text n="Magnificat Sexti toni" xml:id="SextiToni">
          <front>
             <div>
                <p>
@@ -630,7 +626,7 @@
          </body>
       </text>
       
-      <text n="Magnificat Septimi toni">
+      <text n="Magnificat Septimi toni" xml:id="SeptimiToni">
          <front>
             <div>
                <p>
@@ -661,7 +657,7 @@
          </body>
       </text>
       
-      <text n="Magnificat Octavi toni">
+      <text n="Magnificat Octavi toni" xml:id="OctaviToni">
          <front>
             <div>
                <p>
@@ -692,7 +688,7 @@
          </body>
       </text>
       
-      <text n="Tribulationes cordis mea">
+      <text n="Tribulationes cordis mea" xml:id="Tribulationes">
          <front>
             <div>
                <p>
@@ -714,7 +710,7 @@
          </body>
       </text>
       
-      <text n="Hoc est praeceptum meum">
+      <text n="Hoc est praeceptum meum" xml:id="HocEst">
          <front>
             <div>
                <p>
@@ -736,7 +732,7 @@
          </body>
       </text>
       
-      <text n="Iste Sanctus">
+      <text n="Iste Sanctus" xml:id="Sanctus">
          <front>
             <div>
                <p>
@@ -758,7 +754,7 @@
          </body>
       </text>
       
-      <text n="Ave sanctissima Maria">
+      <text n="Ave sanctissima Maria" xml:id="AveMaria">
          <front>
             <div>
                <p>
@@ -784,7 +780,7 @@
          </body>
       </text>
       
-      <text n="Stabat mater">
+      <text n="Stabat mater" xml:id="StabatMater">
          <front>
             <div>
                <p>
@@ -809,7 +805,7 @@
          </body>
       </text>
       
-      <text n="O Ildefonse">
+      <text n="O Ildefonse" xml:id="Ildefonse">
          <front>
             <div>
                <p>
@@ -830,7 +826,7 @@
          </body>
       </text>
       
-      <text n="Gaudent in caelis">
+      <text n="Gaudent in caelis" xml:id="Gaudent">
          <front>
             <div>
                <p>
@@ -850,7 +846,7 @@
          </body>
       </text>
       
-      <text n="Hic vir despiciens mundum">
+      <text n="Hic vir despiciens mundum" xml:id="HicVir">
          <front>
             <div>
                <p>
@@ -870,7 +866,7 @@
          </body>
       </text>
       
-      <text n="O doctor optime">
+      <text n="O doctor optime" xml:id="Doctore">
          <front>
             <div>
                <p>
@@ -890,7 +886,7 @@
          </body>
       </text>
       
-      <text n="Assumpsit Jesus Petrum">
+      <text n="Assumpsit Jesus Petrum" xml:id="AssumpsitJesus">
          <front>
             <div>
                <p>
@@ -911,7 +907,7 @@
          </body>
       </text>
       
-      <text n="Veni sponsa Christi">
+      <text n="Veni sponsa Christi" xml:id="VeniSponsa">
          <front>
             <div>
                <p>
@@ -931,7 +927,7 @@
          </body>
       </text>
       
-      <text n="Amavit eum Dominus">
+      <text n="Amavit eum Dominus" xml:id="AmavitEum">
          <front>
             <div>
                <p>
@@ -951,7 +947,7 @@
          </body>
       </text>
       
-      <text n="Salve regina">
+      <text n="Salve regina" xml:id="SalveRegina">
          <front>
             <div>
                <p>
@@ -975,7 +971,7 @@
          </body>
       </text>
       
-      <text n="Benedicamus Domino [1]">
+      <text n="Benedicamus Domino [1]" xml:id="Benedicamus1">
          <front>
             <div>
                <p>
@@ -995,7 +991,7 @@
          </body>
       </text>
       
-      <text n="Benedicamus Domino [2]">
+      <text n="Benedicamus Domino [2]" xml:id="Benedicamus2">
          <front>
             <div>
                <p>
@@ -1013,7 +1009,7 @@
          </body>
       </text>
       
-      <text n="?Benedicamus Domino [3]">
+      <text n="?Benedicamus Domino [3]" xml:id="Benedicamus3">
          <front>
             <div>
                <p>
@@ -1030,14 +1026,14 @@
          </body>
       </text>
       
-      <text n="colophon">
+      <text n="colophon" xml:id="Colophon">
          <body>
             <pb n="300v" xml:id="folio_300v"/>
             <p>Text</p>
          </body>
       </text>
       
-      <text n="Back Cover">
+      <text n="Back Cover" xml:id="BackCover">
          <body>
             <pb n="301r" xml:id="folio_301r"/>
             <p>Transcription goes here.</p>

@@ -10,7 +10,7 @@
       <edition data-key="dipl">Diplomatic</edition>
    </editions>
    <textpage>
-      <text n="FrontMatte" label="Front Matter">
+      <text n="FrontMatter" label="Front Matter">
          <pb n="Cover">folio_front</pb>
          <pb n="Cover">folio_0v</pb>
          <pb n="Title Page">folio_tr</pb>
