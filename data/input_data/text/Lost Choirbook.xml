@@ -166,17 +166,17 @@
          </front>
          <body>
             <pb n="Front Cover" xml:id="folio_front"/>
-            <pb n="Inside Front Cover" xml:id="folio_0v"/>
-            <pb n="Title Page" xml:id="folio_tr"/>
+            <pb n="0v" xml:id="folio_0v"/>
+            <pb n="1r" xml:id="folio_1r"/>
                <p rend="center"> 
                   <lb/>SVPERIORVM [PERMISSV]
                   <lb/>SALMA[N]T[ICAE]
                   <lb/>Ex officina typographica Antonij V[AZQUEZ]
                   <lb/>Anno à Christo nato M. DC.
                </p>
-            <pb n="000" xml:id="folio_tv"/>
-               <p><lb/>Pages are missing throughout.</p>
-            <pb n="1–85" xml:id="folio_1r"/>    
+            <pb n="2v" xml:id="folio_2v"/>
+            <pb n="3r" xml:id="folio_3r"/> 
+               <p><lb/>pp [1-85] missing</p>
          </body>
       </text>
 
@@ -1036,7 +1036,7 @@
       
       <text n="Back Cover" xml:id="BackCover">
          <body>
-            <pb n="Inside Back Cover" xml:id="folio_301r"/>
+            <pb n="301r" xml:id="folio_301r"/>
             <p>Transcription goes here.</p>
             <pb n="Back Cover" xml:id="folio_back"/>
          </body>
