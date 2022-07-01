@@ -1232,7 +1232,7 @@ footer {
 #left_header #span_pp_select,
 #left_header #span_dd_select {
     display: inline-block;
-    top: -7px;
+    /*top: -7px;*/
 }
 
 #span_ee_select-add {
