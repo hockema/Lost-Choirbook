@@ -44,6 +44,7 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
+   
    <facsimile xml:id="Lost_Choirbook">
       <surface corresp="#folio_166v">
          <graphic url="../images/single/folio_166v.jpg" width="1440px" height="1983px"/>
@@ -164,8 +165,8 @@
             </div>
          </front>
          <body>
-            <pb n="Cover" xml:id="folio_front"/>
-            <pb n="Cover" xml:id="folio_0v"/>
+            <pb n="Front Cover" xml:id="folio_front"/>
+            <pb n="Inside Front Cover" xml:id="folio_0v"/>
             <pb n="Title Page" xml:id="folio_tr"/>
                <p rend="center"> 
                   <lb/>SVPERIORVM [PERMISSV]
@@ -1035,7 +1036,7 @@
       
       <text n="Back Cover" xml:id="BackCover">
          <body>
-            <pb n="301r" xml:id="folio_301r"/>
+            <pb n="Inside Back Cover" xml:id="folio_301r"/>
             <p>Transcription goes here.</p>
             <pb n="Back Cover" xml:id="folio_back"/>
          </body>

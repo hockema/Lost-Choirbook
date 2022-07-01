@@ -22,7 +22,7 @@
 									"line" : "no line info|no line info", 
 									"text" : " ", 
 									"tags" : "FrontMatter|Choirbook Front Matter", 
-									"loc" : "folio_front|Cover",
+									"loc" : "folio_front|Front Cover",
 									"inFront": "false" 
 								}, 
 							
@@ -2030,7 +2030,7 @@
 									"line" : "|",
 									"text" : "Transcription goes here.",
 									"tags" : "BackCover|Back Cover",
-									"loc" : "folio_301r|301r",
+									"loc" : "folio_301r|Inside Back Cover",
 									"inFront": "false"
 									},
 								 
@@ -2038,7 +2038,7 @@
 									"line" : "no line info|no line info", 
 									"text" : "", 
 									"tags" : "BackCover|Choirbook Back Cover", 
-									"loc" : "folio_301r|301r",
+									"loc" : "folio_301r|Inside Back Cover",
 									"inFront": "false" 
 								}, 
 							 { "line" : "", "text" : "", "tags" : "", "loc" : "" }]}
